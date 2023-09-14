@@ -6,13 +6,13 @@
  <p align="center">Somos <strong>Una comunidad que busca ayudar a miles de devs a lograr todo su potencial</strong><br />¡Checa el contenido que tenemos para ti 👇!</p>
  <p align="center">
     <a href="https://youtube.com/4SoftwareDevelopers" target="blank" style='margin-right:4px'>
-     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="midudev" height="28px" width="28px" />
+     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="4SoftwareDevelopers" height="28px" width="28px" />
    </a>
    <a href="https://instagram.com/4SoftwareDevelopers" target="blank">
-     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="midu.dev" height="28px" width="28px" />
+     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="4SoftwareDevelopers" height="28px" width="28px" />
    </a>
    <a href="https://twitter.com/4SDevelopers" target="blank">
-     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="midudev" height="28px" width="28px" />
+     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="4SoftwareDevelopers" height="28px" width="28px" />
    </a>
  </p>
  
@@ -33,7 +33,7 @@
 
 ### 📚 Ebook [Java, el cambio es la única constante](https://ebook.4softwaredevelopers.com/)
 <a href="https://ebook.4softwaredevelopers.com/" target="blank">
-  <img align="center" src="https://www.4softwaredevelopers.com/assets/img/illustrations/Portada_Java.jpg" alt="midudev" width="120px" />
+  <img align="center" src="https://www.4softwaredevelopers.com/assets/img/illustrations/Portada_Java.jpg" alt="4SoftwareDevelopers" width="180px" />
 </a>
 
 ### 🔐 Registrate [aquí para contenido exclusivo](https://www.subscribepage.com/kit4sd)

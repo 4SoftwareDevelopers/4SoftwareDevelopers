@@ -18,16 +18,16 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/hGN9ZIW_rdQ' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/hGN9ZIW_rdQ/mqdefault.jpg' alt='👀 Java vs Kotlin ¿Cuál es mejor? ¿Vale la pena seguir usando Java en 2023? 🤔' title='👀 Java vs Kotlin ¿Cuál es mejor? ¿Vale la pena seguir usando Java en 2023? 🤔' />
+</a>
+
 <a href='https://youtu.be/2wd1gbRJdCM' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/2wd1gbRJdCM/mqdefault.jpg' alt='🤩IMPRESIONANTE🔥 APRENDE A CREAR UN CHAT CON NESTJS Y HANDLEBARS EN MINUTOS' title='🤩IMPRESIONANTE🔥 APRENDE A CREAR UN CHAT CON NESTJS Y HANDLEBARS EN MINUTOS' />
 </a>
 
 <a href='https://youtu.be/rCDNefFSko4' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/rCDNefFSko4/mqdefault.jpg' alt='🤩IMPERDIBLE🔥 APRENDE A INSERTAR MILES DE REGISTROS EN POCOS SEGUNDOS CON NESTJS (BATCH INSERT)' title='🤩IMPERDIBLE🔥 APRENDE A INSERTAR MILES DE REGISTROS EN POCOS SEGUNDOS CON NESTJS (BATCH INSERT)' />
-</a>
-
-<a href='https://youtu.be/zf5GuMh76J0' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/zf5GuMh76J0/mqdefault.jpg' alt='El OPEN SOURCE es un acto de REBELDÍA - Podcast | 4SoftwareDevelopers' title='El OPEN SOURCE es un acto de REBELDÍA - Podcast | 4SoftwareDevelopers' />
 </a>
  
 

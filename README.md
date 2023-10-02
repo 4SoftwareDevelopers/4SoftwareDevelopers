@@ -18,16 +18,16 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
-<a href='https://youtu.be/p1LXSUX663Q' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/p1LXSUX663Q/mqdefault.jpg' alt='💡 CRUD Genérico en Quarkus: Usando Generics de Java para Eficacia y Reutilización' title='💡 CRUD Genérico en Quarkus: Usando Generics de Java para Eficacia y Reutilización' />
-</a>
-
 <a href='https://youtu.be/top1ljdSjJA' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/top1ljdSjJA/mqdefault.jpg' alt='🚀 Mejores Prácticas: Metodología Efectiva para el Manejo de Excepciones' title='🚀 Mejores Prácticas: Metodología Efectiva para el Manejo de Excepciones' />
 </a>
 
 <a href='https://youtu.be/2wd1gbRJdCM' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/2wd1gbRJdCM/mqdefault.jpg' alt='🤩IMPRESIONANTE🔥 APRENDE A CREAR UN CHAT CON NESTJS Y HANDLEBARS EN MINUTOS' title='🤩IMPRESIONANTE🔥 APRENDE A CREAR UN CHAT CON NESTJS Y HANDLEBARS EN MINUTOS' />
+</a>
+
+<a href='https://youtu.be/rCDNefFSko4' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/rCDNefFSko4/mqdefault.jpg' alt='🤩IMPERDIBLE🔥 APRENDE A INSERTAR MILES DE REGISTROS EN POCOS SEGUNDOS CON NESTJS (BATCH INSERT)' title='🤩IMPERDIBLE🔥 APRENDE A INSERTAR MILES DE REGISTROS EN POCOS SEGUNDOS CON NESTJS (BATCH INSERT)' />
 </a>
  
 

@@ -18,16 +18,16 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/2GrHfwRzugo' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/2GrHfwRzugo/mqdefault.jpg' alt='Mi Experiencia Inolvidable: La Mejor (y Peor) Aventura Como Desarrollador 💡🎢' title='Mi Experiencia Inolvidable: La Mejor (y Peor) Aventura Como Desarrollador 💡🎢' />
+</a>
+
 <a href='https://youtu.be/RtFEFElstL4' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/RtFEFElstL4/mqdefault.jpg' alt='🚀 WebSockets con Spring Boot: Creando un Chat en Tiempo Real' title='🚀 WebSockets con Spring Boot: Creando un Chat en Tiempo Real' />
 </a>
 
 <a href='https://youtu.be/s-eodI31EpA' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/s-eodI31EpA/mqdefault.jpg' alt='🤯 Java 21: Los Virtual Threads vienen a cambiarlo todo.' title='🤯 Java 21: Los Virtual Threads vienen a cambiarlo todo.' />
-</a>
-
-<a href='https://youtu.be/top1ljdSjJA' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/top1ljdSjJA/mqdefault.jpg' alt='🚀 Mejores Prácticas: Metodología Efectiva para el Manejo de Excepciones' title='🚀 Mejores Prácticas: Metodología Efectiva para el Manejo de Excepciones' />
 </a>
  
 

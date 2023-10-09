@@ -18,16 +18,16 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/Ceh_zqIXcms' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/Ceh_zqIXcms/mqdefault.jpg' alt='¿Por qué tantas versiones de Java? ¿Java 21? ¡Entendiendo el nuevo ciclo de actualizaciones del JDK!' title='¿Por qué tantas versiones de Java? ¿Java 21? ¡Entendiendo el nuevo ciclo de actualizaciones del JDK!' />
+</a>
+
 <a href='https://youtu.be/2GrHfwRzugo' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/2GrHfwRzugo/mqdefault.jpg' alt='🔍 Mi Experiencia Inolvidable: La Mejor (y Peor) Aventura Como Desarrollador  de Software💡🎢' title='🔍 Mi Experiencia Inolvidable: La Mejor (y Peor) Aventura Como Desarrollador  de Software💡🎢' />
 </a>
 
 <a href='https://youtu.be/RtFEFElstL4' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/RtFEFElstL4/mqdefault.jpg' alt='🚀 WebSockets con Spring Boot: Creando un Chat en Tiempo Real' title='🚀 WebSockets con Spring Boot: Creando un Chat en Tiempo Real' />
-</a>
-
-<a href='https://youtu.be/s-eodI31EpA' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/s-eodI31EpA/mqdefault.jpg' alt='🤯 Java 21: Los Virtual Threads vienen a cambiarlo todo.' title='🤯 Java 21: Los Virtual Threads vienen a cambiarlo todo.' />
 </a>
  
 

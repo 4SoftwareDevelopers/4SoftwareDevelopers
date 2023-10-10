@@ -18,16 +18,16 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/GQwOf8bpSiw' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/GQwOf8bpSiw/mqdefault.jpg' alt='💔 Aún me acompaña el recuerdo de haberle fallado a mi equipo #programacion' title='💔 Aún me acompaña el recuerdo de haberle fallado a mi equipo #programacion' />
+</a>
+
+<a href='https://youtu.be/Br8pG2R2Nv0' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/Br8pG2R2Nv0/mqdefault.jpg' alt='El arquitecto de software nos decía “no somos casa de software” 😭💔 #programacion' title='El arquitecto de software nos decía “no somos casa de software” 😭💔 #programacion' />
+</a>
+
 <a href='https://youtu.be/Ceh_zqIXcms' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/Ceh_zqIXcms/mqdefault.jpg' alt='¿Por qué tantas versiones de Java? ¿Java 21? ¡Entendiendo el nuevo ciclo de actualizaciones del JDK!' title='¿Por qué tantas versiones de Java? ¿Java 21? ¡Entendiendo el nuevo ciclo de actualizaciones del JDK!' />
-</a>
-
-<a href='https://youtu.be/2GrHfwRzugo' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/2GrHfwRzugo/mqdefault.jpg' alt='🔍 Mi Experiencia Inolvidable: La Mejor (y Peor) Aventura Como Desarrollador  de Software💡🎢' title='🔍 Mi Experiencia Inolvidable: La Mejor (y Peor) Aventura Como Desarrollador  de Software💡🎢' />
-</a>
-
-<a href='https://youtu.be/RtFEFElstL4' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/RtFEFElstL4/mqdefault.jpg' alt='🚀 WebSockets con Spring Boot: Creando un Chat en Tiempo Real' title='🚀 WebSockets con Spring Boot: Creando un Chat en Tiempo Real' />
 </a>
  
 

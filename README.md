@@ -27,7 +27,7 @@
 </a>
 
 <a href='https://youtu.be/Ceh_zqIXcms' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/Ceh_zqIXcms/mqdefault.jpg' alt='¿Por qué tantas versiones de Java? ¿Java 21? ¡Entendiendo el nuevo ciclo de actualizaciones del JDK!' title='¿Por qué tantas versiones de Java? ¿Java 21? ¡Entendiendo el nuevo ciclo de actualizaciones del JDK!' />
+    <img width='30%' src='https://img.youtube.com/vi/Ceh_zqIXcms/mqdefault.jpg' alt='🤪 ¿Oracle perdió la cabeza? ¿Por qué hay tantas versiones de Java? ¿Java 21?' title='🤪 ¿Oracle perdió la cabeza? ¿Por qué hay tantas versiones de Java? ¿Java 21?' />
 </a>
  
 

@@ -18,16 +18,16 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/c4Lruobf2hs' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/c4Lruobf2hs/mqdefault.jpg' alt='Descubriendo Reflection en Java: ¿Qué es?, Usos y Ejemplo Práctico' title='Descubriendo Reflection en Java: ¿Qué es?, Usos y Ejemplo Práctico' />
+</a>
+
 <a href='https://youtu.be/GQwOf8bpSiw' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/GQwOf8bpSiw/mqdefault.jpg' alt='💔 Aún me acompaña el recuerdo de haberle fallado a mi equipo #programacion' title='💔 Aún me acompaña el recuerdo de haberle fallado a mi equipo #programacion' />
 </a>
 
 <a href='https://youtu.be/Br8pG2R2Nv0' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/Br8pG2R2Nv0/mqdefault.jpg' alt='El arquitecto de software nos decía “no somos casa de software” 😭💔 #programacion' title='El arquitecto de software nos decía “no somos casa de software” 😭💔 #programacion' />
-</a>
-
-<a href='https://youtu.be/Ceh_zqIXcms' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/Ceh_zqIXcms/mqdefault.jpg' alt='🤪 ¿Oracle perdió la cabeza? ¿Por qué hay tantas versiones de Java? ¿Java 21?' title='🤪 ¿Oracle perdió la cabeza? ¿Por qué hay tantas versiones de Java? ¿Java 21?' />
 </a>
  
 

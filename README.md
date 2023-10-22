@@ -19,7 +19,7 @@
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
 <a href='https://youtu.be/9E-YS7BmdK8' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/9E-YS7BmdK8/mqdefault.jpg' alt='Programa mejor gracias a los Patrones de Diseño 💡' title='Programa mejor gracias a los Patrones de Diseño 💡' />
+    <img width='30%' src='https://img.youtube.com/vi/9E-YS7BmdK8/mqdefault.jpg' alt='🤯 NECESITAS dominar Patrones de Diseño 💡' title='🤯 NECESITAS dominar Patrones de Diseño 💡' />
 </a>
 
 <a href='https://youtu.be/3dGF_zeEA_I' target='_blank'>

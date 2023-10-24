@@ -18,16 +18,16 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/HqukX8ZtdKE' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/HqukX8ZtdKE/mqdefault.jpg' alt='🤔 Spring Framework en Español - ¿Qué es Spring Data?' title='🤔 Spring Framework en Español - ¿Qué es Spring Data?' />
+</a>
+
 <a href='https://youtu.be/cpKJjOzD2Sk' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/cpKJjOzD2Sk/mqdefault.jpg' alt='Desarrollo web sin HTML, CSS o JS todo desde JAVA' title='Desarrollo web sin HTML, CSS o JS todo desde JAVA' />
 </a>
 
 <a href='https://youtu.be/9E-YS7BmdK8' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/9E-YS7BmdK8/mqdefault.jpg' alt='🤯 NECESITAS dominar los Patrones de Diseño 💡' title='🤯 NECESITAS dominar los Patrones de Diseño 💡' />
-</a>
-
-<a href='https://youtu.be/3dGF_zeEA_I' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/3dGF_zeEA_I/mqdefault.jpg' alt='CURSO MANEJO DE EXCEPCIONES - Excepciones y Optional ¿orElseThrow? ¿orElseGet?' title='CURSO MANEJO DE EXCEPCIONES - Excepciones y Optional ¿orElseThrow? ¿orElseGet?' />
 </a>
  
 

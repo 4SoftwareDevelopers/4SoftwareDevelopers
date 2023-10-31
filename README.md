@@ -18,16 +18,16 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/0gV1x48QqXg' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/0gV1x48QqXg/mqdefault.jpg' alt='Diseñando Aplicaciones Modulares y Escalables ¿Model, Dao, Repository, Service, Controller?' title='Diseñando Aplicaciones Modulares y Escalables ¿Model, Dao, Repository, Service, Controller?' />
+</a>
+
 <a href='https://youtu.be/qR7CrwrFaDw' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/qR7CrwrFaDw/mqdefault.jpg' alt='CURSO MANEJO DE EXCEPCIONES - @ControllerAdvice Excepciones personalizadas y no controladas.' title='CURSO MANEJO DE EXCEPCIONES - @ControllerAdvice Excepciones personalizadas y no controladas.' />
 </a>
 
 <a href='https://youtu.be/HqukX8ZtdKE' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/HqukX8ZtdKE/mqdefault.jpg' alt='🤔 Spring Framework en Español - ¿Qué es Spring Data?' title='🤔 Spring Framework en Español - ¿Qué es Spring Data?' />
-</a>
-
-<a href='https://youtu.be/3dGF_zeEA_I' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/3dGF_zeEA_I/mqdefault.jpg' alt='CURSO MANEJO DE EXCEPCIONES - Excepciones y Optional ¿orElseThrow? ¿orElseGet?' title='CURSO MANEJO DE EXCEPCIONES - Excepciones y Optional ¿orElseThrow? ¿orElseGet?' />
 </a>
  
 

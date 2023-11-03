@@ -19,7 +19,7 @@
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
 <a href='https://youtu.be/kD2vcK48Bpo' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/kD2vcK48Bpo/mqdefault.jpg' alt='¿Los Server Actions son código spaguetti?' title='¿Los Server Actions son código spaguetti?' />
+    <img width='30%' src='https://img.youtube.com/vi/kD2vcK48Bpo/mqdefault.jpg' alt='Los Server Actions de NextJS PODRÍAN cambiarlo TODO' title='Los Server Actions de NextJS PODRÍAN cambiarlo TODO' />
 </a>
 
 <a href='https://youtu.be/0gV1x48QqXg' target='_blank'>

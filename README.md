@@ -19,11 +19,11 @@
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
 <a href='https://youtu.be/kD2vcK48Bpo' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/kD2vcK48Bpo/mqdefault.jpg' alt='¿Los Server Actions son una MIERD*?' title='¿Los Server Actions son una MIERD*?' />
+    <img width='30%' src='https://img.youtube.com/vi/kD2vcK48Bpo/mqdefault.jpg' alt='¿Los Server Actions son código spaguetti?' title='¿Los Server Actions son código spaguetti?' />
 </a>
 
 <a href='https://youtu.be/0gV1x48QqXg' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/0gV1x48QqXg/mqdefault.jpg' alt='Diseñando Aplicaciones Modulares y Escalables ¿Model, Dao, Repository, Service, Controller?' title='Diseñando Aplicaciones Modulares y Escalables ¿Model, Dao, Repository, Service, Controller?' />
+    <img width='30%' src='https://img.youtube.com/vi/0gV1x48QqXg/mqdefault.jpg' alt='¿Qué es la arquitectura en capas?' title='¿Qué es la arquitectura en capas?' />
 </a>
 
 <a href='https://youtu.be/HqukX8ZtdKE' target='_blank'>

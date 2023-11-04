@@ -19,7 +19,7 @@
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
 <a href='https://youtu.be/kD2vcK48Bpo' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/kD2vcK48Bpo/mqdefault.jpg' alt='Los Server Actions de NextJS tienen UN GRAN PROBLEMA' title='Los Server Actions de NextJS tienen UN GRAN PROBLEMA' />
+    <img width='30%' src='https://img.youtube.com/vi/kD2vcK48Bpo/mqdefault.jpg' alt='El GRAN PROBLEMA de los Server Actions de NextJS' title='El GRAN PROBLEMA de los Server Actions de NextJS' />
 </a>
 
 <a href='https://youtu.be/0gV1x48QqXg' target='_blank'>

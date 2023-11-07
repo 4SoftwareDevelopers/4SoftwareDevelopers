@@ -27,7 +27,7 @@
 </a>
 
 <a href='https://youtu.be/0gV1x48QqXg' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/0gV1x48QqXg/mqdefault.jpg' alt='¿Qué es la arquitectura en capas?' title='¿Qué es la arquitectura en capas?' />
+    <img width='30%' src='https://img.youtube.com/vi/0gV1x48QqXg/mqdefault.jpg' alt='Evolución del Software: El Poder de la Arquitectura en Capas' title='Evolución del Software: El Poder de la Arquitectura en Capas' />
 </a>
  
 

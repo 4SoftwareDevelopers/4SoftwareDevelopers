@@ -19,7 +19,7 @@
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
 <a href='https://youtu.be/GSFDfuJDbm0' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/GSFDfuJDbm0/mqdefault.jpg' alt='¿Por qué PHP sigue tan VIGENTE?' title='¿Por qué PHP sigue tan VIGENTE?' />
+    <img width='30%' src='https://img.youtube.com/vi/GSFDfuJDbm0/mqdefault.jpg' alt='¿Por qué PHP no se MUER*?' title='¿Por qué PHP no se MUER*?' />
 </a>
 
 <a href='https://youtu.be/a8QFb_aE844' target='_blank'>

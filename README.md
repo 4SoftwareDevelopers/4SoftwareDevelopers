@@ -18,16 +18,16 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/6QwAWCq1ZLo' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/6QwAWCq1ZLo/mqdefault.jpg' alt='La clave para entender programación orientada a objetos #programador #java #poo' title='La clave para entender programación orientada a objetos #programador #java #poo' />
+</a>
+
 <a href='https://youtu.be/qOl444DFpnQ' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/qOl444DFpnQ/mqdefault.jpg' alt='Todo bien con los gerentes de proyectos #programador #developer #meme' title='Todo bien con los gerentes de proyectos #programador #developer #meme' />
 </a>
 
 <a href='https://youtu.be/jiQpkaXPUCE' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/jiQpkaXPUCE/mqdefault.jpg' alt='Hay algo esperándonos y no es humano #programador #developer #meme' title='Hay algo esperándonos y no es humano #programador #developer #meme' />
-</a>
-
-<a href='https://youtu.be/zrjeVa1J3w8' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/zrjeVa1J3w8/mqdefault.jpg' alt='Tip de optimización en Java #programador #java #aplicacionesweb' title='Tip de optimización en Java #programador #java #aplicacionesweb' />
 </a>
  
 

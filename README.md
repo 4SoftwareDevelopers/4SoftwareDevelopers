@@ -18,16 +18,16 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
-<a href='https://youtu.be/jH7mlvKZ_Bg' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/jH7mlvKZ_Bg/mqdefault.jpg' alt='LA VERDAD detrás del Full Stack Junior' title='LA VERDAD detrás del Full Stack Junior' />
+<a href='https://youtu.be/qOl444DFpnQ' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/qOl444DFpnQ/mqdefault.jpg' alt='Todo bien con los gerentes de proyectos #programador #developer #meme' title='Todo bien con los gerentes de proyectos #programador #developer #meme' />
 </a>
 
-<a href='https://youtu.be/a8QFb_aE844' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/a8QFb_aE844/mqdefault.jpg' alt='🤯 La MEJOR librería UI para Angular, ReactJS y VueJS' title='🤯 La MEJOR librería UI para Angular, ReactJS y VueJS' />
+<a href='https://youtu.be/jiQpkaXPUCE' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/jiQpkaXPUCE/mqdefault.jpg' alt='Hay algo esperándonos y no es humano #programador #developer #meme' title='Hay algo esperándonos y no es humano #programador #developer #meme' />
 </a>
 
-<a href='https://youtu.be/kD2vcK48Bpo' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/kD2vcK48Bpo/mqdefault.jpg' alt='El GRAN PROBLEMA de los Server Actions de NextJS' title='El GRAN PROBLEMA de los Server Actions de NextJS' />
+<a href='https://youtu.be/zrjeVa1J3w8' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/zrjeVa1J3w8/mqdefault.jpg' alt='Tip de optimización en Java #programador #java #aplicacionesweb' title='Tip de optimización en Java #programador #java #aplicacionesweb' />
 </a>
  
 

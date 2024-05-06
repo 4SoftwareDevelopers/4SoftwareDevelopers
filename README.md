@@ -18,12 +18,12 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
-<a href='https://youtu.be/REiqcXOr9Rg' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/REiqcXOr9Rg/mqdefault.jpg' alt='¿Por qué Spring Framework es EL MEJOR framework de JAVA?' title='¿Por qué Spring Framework es EL MEJOR framework de JAVA?' />
+<a href='https://youtu.be/_VCNFCUmoKc' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/_VCNFCUmoKc/mqdefault.jpg' alt='Cosas de #programadores #programador #software' title='Cosas de #programadores #programador #software' />
 </a>
 
-<a href='https://youtu.be/vAAB6SgQOcg' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/vAAB6SgQOcg/mqdefault.jpg' alt='Un git merge siempre se puede volver un dolor de cabeza 🤕 🧑🏻‍💻 #programador' title='Un git merge siempre se puede volver un dolor de cabeza 🤕 🧑🏻‍💻 #programador' />
+<a href='https://youtu.be/REiqcXOr9Rg' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/REiqcXOr9Rg/mqdefault.jpg' alt='¿Por qué Spring Framework es EL MEJOR framework de JAVA?' title='¿Por qué Spring Framework es EL MEJOR framework de JAVA?' />
 </a>
 
 <a href='https://youtu.be/6QwAWCq1ZLo' target='_blank'>

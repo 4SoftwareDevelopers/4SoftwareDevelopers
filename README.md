@@ -19,7 +19,7 @@
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
 <a href='https://youtu.be/_VCNFCUmoKc' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/_VCNFCUmoKc/mqdefault.jpg' alt='Cosas de #programadores #programador #software' title='Cosas de #programadores #programador #software' />
+    <img width='30%' src='https://img.youtube.com/vi/_VCNFCUmoKc/mqdefault.jpg' alt='Así es muchas veces con la Daily #programadores #programador #software' title='Así es muchas veces con la Daily #programadores #programador #software' />
 </a>
 
 <a href='https://youtu.be/REiqcXOr9Rg' target='_blank'>

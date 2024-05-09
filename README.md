@@ -19,7 +19,7 @@
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
 <a href='https://youtu.be/JXGV1iFWvZg' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/JXGV1iFWvZg/mqdefault.jpg' alt='El OPEN SOURCE está MURIENDO por NUESTRA CULPA' title='El OPEN SOURCE está MURIENDO por NUESTRA CULPA' />
+    <img width='30%' src='https://img.youtube.com/vi/JXGV1iFWvZg/mqdefault.jpg' alt='¿Qué te detiene para apoyar a quienes crean Open Source?' title='¿Qué te detiene para apoyar a quienes crean Open Source?' />
 </a>
 
 <a href='https://youtu.be/_VCNFCUmoKc' target='_blank'>

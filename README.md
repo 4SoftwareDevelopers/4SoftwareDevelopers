@@ -18,16 +18,16 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/b1jCjs5mPCI' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/b1jCjs5mPCI/mqdefault.jpg' alt='¿A quién más le ha pasado? #programador #developer #desarrollodesoftware' title='¿A quién más le ha pasado? #programador #developer #desarrollodesoftware' />
+</a>
+
 <a href='https://youtu.be/9uWD3d62u0c' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/9uWD3d62u0c/mqdefault.jpg' alt='¿Programación orientada a objetos o programación funcional? #programador #developer' title='¿Programación orientada a objetos o programación funcional? #programador #developer' />
 </a>
 
 <a href='https://youtu.be/JXGV1iFWvZg' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/JXGV1iFWvZg/mqdefault.jpg' alt='¿Qué te detiene para apoyar a quienes crean Open Source?' title='¿Qué te detiene para apoyar a quienes crean Open Source?' />
-</a>
-
-<a href='https://youtu.be/_VCNFCUmoKc' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/_VCNFCUmoKc/mqdefault.jpg' alt='Así es muchas veces con la Daily #programadores #programador #software' title='Así es muchas veces con la Daily #programadores #programador #software' />
 </a>
  
 

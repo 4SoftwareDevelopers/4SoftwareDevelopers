@@ -6,11 +6,11 @@
  <p align="center">Soy Jordy, arquitecto de software, y aquí vas a encontrar aprendizajes reales, errores y recursos útiles sobre Java, Spring y arquitectura de software, explicados de forma clara y sin humo.</p>
  <p align="center">
     <a href="https://youtube.com/4SoftwareDevelopers" target="blank" style='margin-right:4px'>
-     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="4SoftwareDevelopers" height="28px" width="28px" />
-   </a>
-   <a href="https://x.com/jordy_4sd" target="blank">
-     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="4SoftwareDevelopers" height="28px" width="28px" />
-   </a>
+      <svg height="20px" width="20px" role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>YouTube</title><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg>
+    </a>
+    <a href="https://x.com/jordy_4sd" target="blank">
+      <svg height="20px" width="20px" role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>X</title><path d="M14.234 10.162 22.977 0h-2.072l-7.591 8.824L7.251 0H.258l9.168 13.343L.258 24H2.33l8.016-9.318L16.749 24h6.993zm-2.837 3.299-.929-1.329L3.076 1.56h3.182l5.965 8.532.929 1.329 7.754 11.09h-3.182z"/></svg>
+    </a>
  </p>
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)

@@ -28,6 +28,5 @@
 </a>
 
 
-### 🔐 Únete a mi lista de correos [detalles aquí](https://www.4softwaredevelopers.com)
- 
+### 🔐 Únete a mi lista de correos [detalles aquí](https://www.4softwaredevelopers.com) 
  

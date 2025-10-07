@@ -15,16 +15,16 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/2ImIT79nQCs' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/2ImIT79nQCs/mqdefault.jpg' alt='Circuit Breaker: evita caídas en cadena en tus aplicaciones' title='Circuit Breaker: evita caídas en cadena en tus aplicaciones' />
+</a>
+
 <a href='https://youtu.be/BFOVDwzknzw' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/BFOVDwzknzw/mqdefault.jpg' alt='Feature Toggles: el truco detrás de los despliegues exitosos' title='Feature Toggles: el truco detrás de los despliegues exitosos' />
 </a>
 
 <a href='https://youtu.be/J0l_ywMvDhw' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/J0l_ywMvDhw/mqdefault.jpg' alt='¿Microservicios? Mejor piensa en Monolitos Modulares ⚡' title='¿Microservicios? Mejor piensa en Monolitos Modulares ⚡' />
-</a>
-
-<a href='https://youtu.be/XdEL2UNXNpo' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/XdEL2UNXNpo/mqdefault.jpg' alt='Mis PEORES ERRORES como DEV ¡No los repitas!' title='Mis PEORES ERRORES como DEV ¡No los repitas!' />
 </a>
 
 

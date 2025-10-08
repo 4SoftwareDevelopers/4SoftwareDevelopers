@@ -16,7 +16,7 @@
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
 <a href='https://youtu.be/2ImIT79nQCs' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/2ImIT79nQCs/mqdefault.jpg' alt='Circuit Breaker: evita caídas en cadena en tus aplicaciones' title='Circuit Breaker: evita caídas en cadena en tus aplicaciones' />
+    <img width='30%' src='https://img.youtube.com/vi/2ImIT79nQCs/mqdefault.jpg' alt='Circuit Breaker explicado fácil: evita caídas en cadena en tus aplicaciones' title='Circuit Breaker explicado fácil: evita caídas en cadena en tus aplicaciones' />
 </a>
 
 <a href='https://youtu.be/BFOVDwzknzw' target='_blank'>

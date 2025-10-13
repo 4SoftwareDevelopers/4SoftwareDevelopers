@@ -15,16 +15,16 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/bkiNTVd3tpk' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/bkiNTVd3tpk/mqdefault.jpg' alt='Haz esto antes de pensar en usar KAFKA (Spring Framework Events)' title='Haz esto antes de pensar en usar KAFKA (Spring Framework Events)' />
+</a>
+
+<a href='https://youtu.be/kr7NpZoD6xY' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/kr7NpZoD6xY/mqdefault.jpg' alt='Incluso en proyectos grandes no siempre los #microservicios son una buena opción para empezar' title='Incluso en proyectos grandes no siempre los #microservicios son una buena opción para empezar' />
+</a>
+
 <a href='https://youtu.be/JZzexqxSa3A' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/JZzexqxSa3A/mqdefault.jpg' alt='Si algo falla en tu #monolito todo falla' title='Si algo falla en tu #monolito todo falla' />
-</a>
-
-<a href='https://youtu.be/0WxZ1EYrM2E' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/0WxZ1EYrM2E/mqdefault.jpg' alt='¿Tu microservicio es un monolito distribuido? #java #springframework #microservicios #monolito' title='¿Tu microservicio es un monolito distribuido? #java #springframework #microservicios #monolito' />
-</a>
-
-<a href='https://youtu.be/igNVMibuqrg' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/igNVMibuqrg/mqdefault.jpg' alt='Arquitectura Monolítica vs Modular vs Microservicios explicado fácil' title='Arquitectura Monolítica vs Modular vs Microservicios explicado fácil' />
 </a>
 
 

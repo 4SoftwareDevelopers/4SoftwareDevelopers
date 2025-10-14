@@ -15,16 +15,16 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/-8yWK7GtZn0' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/-8yWK7GtZn0/mqdefault.jpg' alt='Qué pasa dentro de un request en Spring Boot (Tomcat, hilos y Virtual Threads explicado fácil)' title='Qué pasa dentro de un request en Spring Boot (Tomcat, hilos y Virtual Threads explicado fácil)' />
+</a>
+
 <a href='https://youtu.be/ntO7rIIKdFo' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/ntO7rIIKdFo/mqdefault.jpg' alt='Tradeoffs básicos de los microservicios (performance)' title='Tradeoffs básicos de los microservicios (performance)' />
 </a>
 
 <a href='https://youtu.be/ogqAKnCb7SE' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/ogqAKnCb7SE/mqdefault.jpg' alt='Feature Toggles puede salvar tu app de errores y ayudarte a mejorar tu tasa de despliegues exitosos' title='Feature Toggles puede salvar tu app de errores y ayudarte a mejorar tu tasa de despliegues exitosos' />
-</a>
-
-<a href='https://youtu.be/bkiNTVd3tpk' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/bkiNTVd3tpk/mqdefault.jpg' alt='Haz esto antes de pensar en usar KAFKA (Spring Framework Events)' title='Haz esto antes de pensar en usar KAFKA (Spring Framework Events)' />
 </a>
 
 

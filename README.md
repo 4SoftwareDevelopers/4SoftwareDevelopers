@@ -15,16 +15,16 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/SpBEnMGpXMs' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/SpBEnMGpXMs/mqdefault.jpg' alt='Ojito con las referencias cíclicas en los monolitos modulares 🔥 #microservicesarchitecture' title='Ojito con las referencias cíclicas en los monolitos modulares 🔥 #microservicesarchitecture' />
+</a>
+
 <a href='https://youtu.be/5R9f4pNflGI' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/5R9f4pNflGI/mqdefault.jpg' alt='Haz esto antes de pensar en usar KAFKA (Spring Framework Events)' title='Haz esto antes de pensar en usar KAFKA (Spring Framework Events)' />
 </a>
 
 <a href='https://youtu.be/-8yWK7GtZn0' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/-8yWK7GtZn0/mqdefault.jpg' alt='Qué pasa dentro de un request en Spring Boot (Tomcat, hilos y Virtual Threads explicado fácil)' title='Qué pasa dentro de un request en Spring Boot (Tomcat, hilos y Virtual Threads explicado fácil)' />
-</a>
-
-<a href='https://youtu.be/ntO7rIIKdFo' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/ntO7rIIKdFo/mqdefault.jpg' alt='Tradeoffs básicos de los microservicios (performance)' title='Tradeoffs básicos de los microservicios (performance)' />
 </a>
 
 

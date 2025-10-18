@@ -15,16 +15,16 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/qNSsT6bHM2U' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/qNSsT6bHM2U/mqdefault.jpg' alt='Los errores más comunes al empezar en la nube (y cómo evitarlos)' title='Los errores más comunes al empezar en la nube (y cómo evitarlos)' />
+</a>
+
 <a href='https://youtu.be/x-7_WubcfT4' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/x-7_WubcfT4/mqdefault.jpg' alt='Los trade-offs en arquitectura: por qué no existe la decisión perfecta' title='Los trade-offs en arquitectura: por qué no existe la decisión perfecta' />
 </a>
 
 <a href='https://youtu.be/LKflG9v_1sc' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/LKflG9v_1sc/mqdefault.jpg' alt='Es fácil evolucionar un #monolito, #monolitomodular o un #microservicios' title='Es fácil evolucionar un #monolito, #monolitomodular o un #microservicios' />
-</a>
-
-<a href='https://youtu.be/SpBEnMGpXMs' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/SpBEnMGpXMs/mqdefault.jpg' alt='Ojito con las referencias cíclicas en los monolitos modulares 🔥 #microservicesarchitecture' title='Ojito con las referencias cíclicas en los monolitos modulares 🔥 #microservicesarchitecture' />
 </a>
 
 

@@ -15,16 +15,16 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
-<a href='https://youtu.be/T3flQinBGIo' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/T3flQinBGIo/mqdefault.jpg' alt='Hay cosas en las que #nodejs supera a #java' title='Hay cosas en las que #nodejs supera a #java' />
+<a href='https://youtu.be/21_r2H3DIZ0' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/21_r2H3DIZ0/mqdefault.jpg' alt='#nextjs “arregla” problemas que tiene #reactjs' title='#nextjs “arregla” problemas que tiene #reactjs' />
 </a>
 
-<a href='https://youtu.be/6Y-fiqXbZtI' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/6Y-fiqXbZtI/mqdefault.jpg' alt='Hagan ejercicios comparativos de sus herramientas y así analizan mucho mejor los #tradeoffs' title='Hagan ejercicios comparativos de sus herramientas y así analizan mucho mejor los #tradeoffs' />
+<a href='https://youtu.be/_Nhh-jmS5MM' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/_Nhh-jmS5MM/mqdefault.jpg' alt='18 de octubre de 2025' title='18 de octubre de 2025' />
 </a>
 
-<a href='https://youtu.be/lKLrNsZUvXI' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/lKLrNsZUvXI/mqdefault.jpg' alt='#java es un lenguaje fantástico que compite con cualquier otro de los lenguajes top del mundo' title='#java es un lenguaje fantástico que compite con cualquier otro de los lenguajes top del mundo' />
+<a href='https://youtu.be/C1CovdDGOjE' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/C1CovdDGOjE/mqdefault.jpg' alt='¿En dónde se registran los #tradeoffs?' title='¿En dónde se registran los #tradeoffs?' />
 </a>
 
 

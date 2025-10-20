@@ -15,16 +15,16 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/vMiZIS51ews' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/vMiZIS51ews/mqdefault.jpg' alt='Documente las alternativas que descartaron en sus decisiones técnicas #arquiteturadesoftware' title='Documente las alternativas que descartaron en sus decisiones técnicas #arquiteturadesoftware' />
+</a>
+
+<a href='https://youtu.be/7a1l3Epw_yo' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/7a1l3Epw_yo/mqdefault.jpg' alt='Analizar los #tradeoffs es vital para cualquier proyecto' title='Analizar los #tradeoffs es vital para cualquier proyecto' />
+</a>
+
 <a href='https://youtu.be/Fbrb0-EvVE4' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/Fbrb0-EvVE4/mqdefault.jpg' alt='Nunca dejen en código los “secretos” de su aplicación, en #gcp #secretmanager es una buena opción' title='Nunca dejen en código los “secretos” de su aplicación, en #gcp #secretmanager es una buena opción' />
-</a>
-
-<a href='https://youtu.be/ug0JSb-pL80' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/ug0JSb-pL80/mqdefault.jpg' alt='#reactjs vs #angular' title='#reactjs vs #angular' />
-</a>
-
-<a href='https://youtu.be/21_r2H3DIZ0' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/21_r2H3DIZ0/mqdefault.jpg' alt='#nextjs “arregla” problemas que tiene #reactjs' title='#nextjs “arregla” problemas que tiene #reactjs' />
 </a>
 
 

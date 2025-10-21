@@ -15,16 +15,16 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/n2YNhmY2_L8' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/n2YNhmY2_L8/mqdefault.jpg' alt='Las #functions de #serverless siempre tienen un tiempo límite de ejecución #aws #gcp' title='Las #functions de #serverless siempre tienen un tiempo límite de ejecución #aws #gcp' />
+</a>
+
+<a href='https://youtu.be/UfrMTlvHVcI' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/UfrMTlvHVcI/mqdefault.jpg' alt='Revisen siempre las métricas que entrega la nube (#aws, #gcp), les pueden salvar la vida #cloud' title='Revisen siempre las métricas que entrega la nube (#aws, #gcp), les pueden salvar la vida #cloud' />
+</a>
+
 <a href='https://youtu.be/PsfFcWjnorI' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/PsfFcWjnorI/mqdefault.jpg' alt='Los servidores de #bd especializados pueden ayudar mucho en performance y administración #cloud #aws' title='Los servidores de #bd especializados pueden ayudar mucho en performance y administración #cloud #aws' />
-</a>
-
-<a href='https://youtu.be/iLDyVr9rT7c' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/iLDyVr9rT7c/mqdefault.jpg' alt='Observabilidad cómo input de arquitectura #aws #gcp #arquitecturadesoftware #cloud' title='Observabilidad cómo input de arquitectura #aws #gcp #arquitecturadesoftware #cloud' />
-</a>
-
-<a href='https://youtu.be/9-QmK1xhYWI' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/9-QmK1xhYWI/mqdefault.jpg' alt='No dejes abiertos los puertos de tus recursos en la nube #cloudcomputing' title='No dejes abiertos los puertos de tus recursos en la nube #cloudcomputing' />
 </a>
 
 

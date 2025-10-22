@@ -15,16 +15,16 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/TaIplCc0BMA' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/TaIplCc0BMA/mqdefault.jpg' alt='Medir tu evolución como #dev es importante #entrecommits' title='Medir tu evolución como #dev es importante #entrecommits' />
+</a>
+
+<a href='https://youtu.be/j68X9sDyrsU' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/j68X9sDyrsU/mqdefault.jpg' alt='&amp;quot;UN BUEN DEV SE DEFINE POR LA CALIDAD DE SU TRABAJO&amp;quot; | ENTRE COMMITS #1| Christian Ramirez' title='&amp;quot;UN BUEN DEV SE DEFINE POR LA CALIDAD DE SU TRABAJO&amp;quot; | ENTRE COMMITS #1| Christian Ramirez' />
+</a>
+
 <a href='https://youtu.be/2L8kTnTnLAA' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/2L8kTnTnLAA/mqdefault.jpg' alt='La responsabilidad de verificar el estado de tu app es 100% tuya #cloud #aws #gcp' title='La responsabilidad de verificar el estado de tu app es 100% tuya #cloud #aws #gcp' />
-</a>
-
-<a href='https://youtu.be/nMpZk5qxctY' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/nMpZk5qxctY/mqdefault.jpg' alt='Cuidado con tener un único punto de fallo en sus sistemas #cloud #aws #gcp' title='Cuidado con tener un único punto de fallo en sus sistemas #cloud #aws #gcp' />
-</a>
-
-<a href='https://youtu.be/GzRwoR-KbYM' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/GzRwoR-KbYM/mqdefault.jpg' alt='Qué son los SLOs, SLIs y SLAs (y por qué importan más de lo que crees)' title='Qué son los SLOs, SLIs y SLAs (y por qué importan más de lo que crees)' />
 </a>
 
 

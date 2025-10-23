@@ -15,16 +15,16 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
-<a href='https://youtu.be/TaIplCc0BMA' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/TaIplCc0BMA/mqdefault.jpg' alt='Medir tu evolución como #dev es importante #entrecommits' title='Medir tu evolución como #dev es importante #entrecommits' />
+<a href='https://youtu.be/FSUiOU8SM5A' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/FSUiOU8SM5A/mqdefault.jpg' alt='Los ilities: la cara oculta de los requerimientos que definen un sistema.' title='Los ilities: la cara oculta de los requerimientos que definen un sistema.' />
 </a>
 
-<a href='https://youtu.be/j68X9sDyrsU' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/j68X9sDyrsU/mqdefault.jpg' alt='&amp;quot;UN BUEN DEV SE DEFINE POR LA CALIDAD DE SU TRABAJO&amp;quot; | ENTRE COMMITS #1| Christian Ramirez' title='&amp;quot;UN BUEN DEV SE DEFINE POR LA CALIDAD DE SU TRABAJO&amp;quot; | ENTRE COMMITS #1| Christian Ramirez' />
+<a href='https://youtu.be/pS2Hj1TjgIA' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/pS2Hj1TjgIA/mqdefault.jpg' alt='Todos tenemos días donde nada funciona #dev #entrecommits' title='Todos tenemos días donde nada funciona #dev #entrecommits' />
 </a>
 
-<a href='https://youtu.be/2L8kTnTnLAA' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/2L8kTnTnLAA/mqdefault.jpg' alt='La responsabilidad de verificar el estado de tu app es 100% tuya #cloud #aws #gcp' title='La responsabilidad de verificar el estado de tu app es 100% tuya #cloud #aws #gcp' />
+<a href='https://youtu.be/KN9dtWzC1nM' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/KN9dtWzC1nM/mqdefault.jpg' alt='La mayoría de errores vienen desde el desconocimiento #entrecommits' title='La mayoría de errores vienen desde el desconocimiento #entrecommits' />
 </a>
 
 

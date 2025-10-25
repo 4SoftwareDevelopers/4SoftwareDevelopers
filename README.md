@@ -15,16 +15,16 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/dj5NHfOz7Es' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/dj5NHfOz7Es/mqdefault.jpg' alt='24 de octubre de 2025' title='24 de octubre de 2025' />
+</a>
+
 <a href='https://youtu.be/7aBTsozL_sE' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/7aBTsozL_sE/mqdefault.jpg' alt='#bancolombia es confiable desde el punto de vista de arquitectura? #arquitecturadesoftware' title='#bancolombia es confiable desde el punto de vista de arquitectura? #arquitecturadesoftware' />
 </a>
 
 <a href='https://youtu.be/y2fY9oraQL0' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/y2fY9oraQL0/mqdefault.jpg' alt='La página de status de #gcp reportada todo como ok, y no era así #cloud' title='La página de status de #gcp reportada todo como ok, y no era así #cloud' />
-</a>
-
-<a href='https://youtu.be/LK6lfyv7uX8' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/LK6lfyv7uX8/mqdefault.jpg' alt='Los #ilities tienen una dependencia directa con los SLAs' title='Los #ilities tienen una dependencia directa con los SLAs' />
 </a>
 
 

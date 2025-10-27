@@ -15,16 +15,16 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/8_zdjee2Imw' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/8_zdjee2Imw/mqdefault.jpg' alt='Los navegadores #ia y el prompt injection comprometen nuestra seguridad' title='Los navegadores #ia y el prompt injection comprometen nuestra seguridad' />
+</a>
+
 <a href='https://youtu.be/dj5NHfOz7Es' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/dj5NHfOz7Es/mqdefault.jpg' alt='24 de octubre de 2025' title='24 de octubre de 2025' />
 </a>
 
 <a href='https://youtu.be/7aBTsozL_sE' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/7aBTsozL_sE/mqdefault.jpg' alt='#bancolombia es confiable desde el punto de vista de arquitectura? #arquitecturadesoftware' title='#bancolombia es confiable desde el punto de vista de arquitectura? #arquitecturadesoftware' />
-</a>
-
-<a href='https://youtu.be/y2fY9oraQL0' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/y2fY9oraQL0/mqdefault.jpg' alt='La página de status de #gcp reportada todo como ok, y no era así #cloud' title='La página de status de #gcp reportada todo como ok, y no era así #cloud' />
 </a>
 
 

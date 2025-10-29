@@ -15,16 +15,16 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/uX9o0QZTrf8' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/uX9o0QZTrf8/mqdefault.jpg' alt='La seguridad no suele ser un atributo de #arquitecturadesoftware que se pueda bajar de prioridad' title='La seguridad no suele ser un atributo de #arquitecturadesoftware que se pueda bajar de prioridad' />
+</a>
+
 <a href='https://youtu.be/-m_hREM_w5M' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/-m_hREM_w5M/mqdefault.jpg' alt='Value Classes: el cambio que hará a Java más rápido (explicado fácil)' title='Value Classes: el cambio que hará a Java más rápido (explicado fácil)' />
 </a>
 
 <a href='https://youtu.be/Ql7MVRcSUKU' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/Ql7MVRcSUKU/mqdefault.jpg' alt='Los costos limitan los #ilities #arquitecturadesoftware' title='Los costos limitan los #ilities #arquitecturadesoftware' />
-</a>
-
-<a href='https://youtu.be/6UHYDzAj4Qw' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/6UHYDzAj4Qw/mqdefault.jpg' alt='A veces hay que sacrificar #performance  en pro de otros beneficios #arquitecturadesoftware' title='A veces hay que sacrificar #performance  en pro de otros beneficios #arquitecturadesoftware' />
 </a>
 
 

@@ -15,16 +15,16 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
-<a href='https://youtu.be/T6v_sbxGiAE' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/T6v_sbxGiAE/mqdefault.jpg' alt='Diferencias clave en tolerancia a fallos y velocidad de recuperación #cloud #arquitecturadesoftware' title='Diferencias clave en tolerancia a fallos y velocidad de recuperación #cloud #arquitecturadesoftware' />
+<a href='https://youtu.be/xyQ7sgJHWvc' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/xyQ7sgJHWvc/mqdefault.jpg' alt='Los cambios más importantes en Spring Boot 4 y Spring Framework 7' title='Los cambios más importantes en Spring Boot 4 y Spring Framework 7' />
 </a>
 
-<a href='https://youtu.be/uX9o0QZTrf8' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/uX9o0QZTrf8/mqdefault.jpg' alt='La seguridad no suele ser un atributo de #arquitecturadesoftware que se pueda bajar de prioridad' title='La seguridad no suele ser un atributo de #arquitecturadesoftware que se pueda bajar de prioridad' />
+<a href='https://youtu.be/pOw2oUYYIYw' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/pOw2oUYYIYw/mqdefault.jpg' alt='La importancia de los atributos en la #arquitecturadesoftware' title='La importancia de los atributos en la #arquitecturadesoftware' />
 </a>
 
-<a href='https://youtu.be/-m_hREM_w5M' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/-m_hREM_w5M/mqdefault.jpg' alt='Value Classes: el cambio que hará a Java más rápido (explicado fácil)' title='Value Classes: el cambio que hará a Java más rápido (explicado fácil)' />
+<a href='https://youtu.be/pszX-pfBPl4' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/pszX-pfBPl4/mqdefault.jpg' alt='#learnability #arquitecturadesoftware' title='#learnability #arquitecturadesoftware' />
 </a>
 
 

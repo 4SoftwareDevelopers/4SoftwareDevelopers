@@ -15,16 +15,16 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/JIijfTS0-Eg' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/JIijfTS0-Eg/mqdefault.jpg' alt='#springframework #java #springboot' title='#springframework #java #springboot' />
+</a>
+
 <a href='https://youtu.be/A31hIHQifVs' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/A31hIHQifVs/mqdefault.jpg' alt='#springframework #webflux #java #virtualthreads' title='#springframework #webflux #java #virtualthreads' />
 </a>
 
 <a href='https://youtu.be/xyQ7sgJHWvc' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/xyQ7sgJHWvc/mqdefault.jpg' alt='Los cambios más importantes en Spring Boot 4 y Spring Framework 7' title='Los cambios más importantes en Spring Boot 4 y Spring Framework 7' />
-</a>
-
-<a href='https://youtu.be/pOw2oUYYIYw' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/pOw2oUYYIYw/mqdefault.jpg' alt='La importancia de los atributos en la #arquitecturadesoftware' title='La importancia de los atributos en la #arquitecturadesoftware' />
 </a>
 
 

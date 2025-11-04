@@ -15,16 +15,16 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/gjlBp6hgM-A' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/gjlBp6hgM-A/mqdefault.jpg' alt='#springframework #java #springboot' title='#springframework #java #springboot' />
+</a>
+
+<a href='https://youtu.be/9P5vnUlja1M' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/9P5vnUlja1M/mqdefault.jpg' alt='Decisiones que destruyen el rendimiento de tu API' title='Decisiones que destruyen el rendimiento de tu API' />
+</a>
+
 <a href='https://youtu.be/anP4-4cOGWE' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/anP4-4cOGWE/mqdefault.jpg' alt='#springframework #java #springboot' title='#springframework #java #springboot' />
-</a>
-
-<a href='https://youtu.be/0elD8UWZU4Y' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/0elD8UWZU4Y/mqdefault.jpg' alt='jdbcClient simplifica muchísimo las cosas #springframework #java #springboot' title='jdbcClient simplifica muchísimo las cosas #springframework #java #springboot' />
-</a>
-
-<a href='https://youtu.be/NMrRiescQK4' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/NMrRiescQK4/mqdefault.jpg' alt='#springframework #java #jdbc' title='#springframework #java #jdbc' />
 </a>
 
 

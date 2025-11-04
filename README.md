@@ -15,16 +15,16 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/0elD8UWZU4Y' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/0elD8UWZU4Y/mqdefault.jpg' alt='jdbcClient simplifica muchísimo las cosas #springframework #java #springboot' title='jdbcClient simplifica muchísimo las cosas #springframework #java #springboot' />
+</a>
+
 <a href='https://youtu.be/NMrRiescQK4' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/NMrRiescQK4/mqdefault.jpg' alt='#springframework #java #jdbc' title='#springframework #java #jdbc' />
 </a>
 
 <a href='https://youtu.be/TbseTdnm3A8' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/TbseTdnm3A8/mqdefault.jpg' alt='#springframework está abandonando el patrón template en favor de los clients #java #springboot' title='#springframework está abandonando el patrón template en favor de los clients #java #springboot' />
-</a>
-
-<a href='https://youtu.be/JIijfTS0-Eg' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/JIijfTS0-Eg/mqdefault.jpg' alt='#springframework #java #springboot' title='#springframework #java #springboot' />
 </a>
 
 

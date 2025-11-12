@@ -23,8 +23,8 @@
     <img width='30%' src='https://img.youtube.com/vi/mxNa_G-DowQ/mqdefault.jpg' alt='#arquitecturadesoftware #cloud' title='#arquitecturadesoftware #cloud' />
 </a>
 
-<a href='https://youtu.be/OTWrVGo6Mx8' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/OTWrVGo6Mx8/mqdefault.jpg' alt='¿Qué es realmente la arquitectura moderna? (y qué no lo es)' title='¿Qué es realmente la arquitectura moderna? (y qué no lo es)' />
+<a href='https://youtu.be/PpL26it_PvU' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/PpL26it_PvU/mqdefault.jpg' alt='Modernidad en #arquitecturadesoftware #microservicios' title='Modernidad en #arquitecturadesoftware #microservicios' />
 </a>
 
 

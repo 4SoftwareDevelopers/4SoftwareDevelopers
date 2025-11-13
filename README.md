@@ -15,16 +15,16 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/6y1OYvC9Bvc' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/6y1OYvC9Bvc/mqdefault.jpg' alt='Bases de datos: decisiones que definen tu arquitectura' title='Bases de datos: decisiones que definen tu arquitectura' />
+</a>
+
 <a href='https://youtu.be/x1gDg4JbvV0' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/x1gDg4JbvV0/mqdefault.jpg' alt='Java lanza excepciones para todo' title='Java lanza excepciones para todo' />
 </a>
 
 <a href='https://youtu.be/mxNa_G-DowQ' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/mxNa_G-DowQ/mqdefault.jpg' alt='#arquitecturadesoftware #cloud' title='#arquitecturadesoftware #cloud' />
-</a>
-
-<a href='https://youtu.be/PpL26it_PvU' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/PpL26it_PvU/mqdefault.jpg' alt='Modernidad en #arquitecturadesoftware #microservicios' title='Modernidad en #arquitecturadesoftware #microservicios' />
 </a>
 
 

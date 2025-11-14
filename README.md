@@ -15,8 +15,8 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
-<a href='https://youtu.be/6y1OYvC9Bvc' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/6y1OYvC9Bvc/mqdefault.jpg' alt='Bases de datos: decisiones que definen tu arquitectura' title='Bases de datos: decisiones que definen tu arquitectura' />
+<a href='https://youtu.be/mQR69DFsQxE' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/mQR69DFsQxE/mqdefault.jpg' alt='Bases de datos: decisiones que definen tu arquitectura' title='Bases de datos: decisiones que definen tu arquitectura' />
 </a>
 
 <a href='https://youtu.be/x1gDg4JbvV0' target='_blank'>

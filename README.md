@@ -15,16 +15,12 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
-<a href='https://youtu.be/inegSB_N194' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/inegSB_N194/mqdefault.jpg' alt='Arquitectura de software guiada por el hype #arquitecturadesoftware' title='Arquitectura de software guiada por el hype #arquitecturadesoftware' />
+<a href='https://youtu.be/mQR69DFsQxE' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/mQR69DFsQxE/mqdefault.jpg' alt='Bases de datos: decisiones que definen tu arquitectura' title='Bases de datos: decisiones que definen tu arquitectura' />
 </a>
 
-<a href='https://youtu.be/0UOuuQutRJo' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/0UOuuQutRJo/mqdefault.jpg' alt='#bancolombia #teoremadecap #arquitecturadesoftware' title='#bancolombia #teoremadecap #arquitecturadesoftware' />
-</a>
-
-<a href='https://youtu.be/JBE4uhkbLVs' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/JBE4uhkbLVs/mqdefault.jpg' alt='#basesdedatos #cloud #arquitecturadesoftware' title='#basesdedatos #cloud #arquitecturadesoftware' />
+<a href='https://youtu.be/x1gDg4JbvV0' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/x1gDg4JbvV0/mqdefault.jpg' alt='Java lanza excepciones para todo' title='Java lanza excepciones para todo' />
 </a>
 
 

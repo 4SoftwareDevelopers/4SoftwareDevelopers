@@ -15,16 +15,16 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/rDY_aAfWry8' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/rDY_aAfWry8/mqdefault.jpg' alt='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #2' title='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #2' />
+</a>
+
 <a href='https://youtu.be/XftlUHwtbR4' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/XftlUHwtbR4/mqdefault.jpg' alt='Tu código Java como NUNCA ANTES gracias a las Sealed Classes' title='Tu código Java como NUNCA ANTES gracias a las Sealed Classes' />
 </a>
 
 <a href='https://youtu.be/1icrAQOtQh4' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/1icrAQOtQh4/mqdefault.jpg' alt='App web audios como mensajes del stream | Spring Boot + Java + Hexagonal | Live Coding #1' title='App web audios como mensajes del stream | Spring Boot + Java + Hexagonal | Live Coding #1' />
-</a>
-
-<a href='https://youtu.be/p3rT_idav6U' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/p3rT_idav6U/mqdefault.jpg' alt='Una app de 1000 personas no es tan grande como puedes creer #arquitecturadesoftware #cloud' title='Una app de 1000 personas no es tan grande como puedes creer #arquitecturadesoftware #cloud' />
 </a>
 
 

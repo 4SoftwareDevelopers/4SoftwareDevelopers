@@ -15,16 +15,16 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/HFy6rFZbhcA' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/HFy6rFZbhcA/mqdefault.jpg' alt='La verdad INCÓMODA sobre Project Lombok' title='La verdad INCÓMODA sobre Project Lombok' />
+</a>
+
 <a href='https://youtu.be/bBuZaXZnz74' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/bBuZaXZnz74/mqdefault.jpg' alt='LazyConstants una propuesta BRUTAL que continua en Java 26' title='LazyConstants una propuesta BRUTAL que continua en Java 26' />
 </a>
 
 <a href='https://youtu.be/rDY_aAfWry8' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/rDY_aAfWry8/mqdefault.jpg' alt='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #2' title='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #2' />
-</a>
-
-<a href='https://youtu.be/XftlUHwtbR4' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/XftlUHwtbR4/mqdefault.jpg' alt='Tu código Java como NUNCA ANTES gracias a las Sealed Classes' title='Tu código Java como NUNCA ANTES gracias a las Sealed Classes' />
 </a>
 
 

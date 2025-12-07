@@ -15,16 +15,16 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/eeOiNlVjc_w' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/eeOiNlVjc_w/mqdefault.jpg' alt='Concurrencia y Paralelismo (explicado con ejemplos reales y con código Java)' title='Concurrencia y Paralelismo (explicado con ejemplos reales y con código Java)' />
+</a>
+
 <a href='https://youtu.be/-BjgWFq0fVY' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/-BjgWFq0fVY/mqdefault.jpg' alt='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #3' title='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #3' />
 </a>
 
 <a href='https://youtu.be/Co8erxPHjkM' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/Co8erxPHjkM/mqdefault.jpg' alt='Adiós excepciones: Implementa RESULT con Sealed Classes en Java como un PRO' title='Adiós excepciones: Implementa RESULT con Sealed Classes en Java como un PRO' />
-</a>
-
-<a href='https://youtu.be/HFy6rFZbhcA' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/HFy6rFZbhcA/mqdefault.jpg' alt='La verdad INCÓMODA sobre Project Lombok' title='La verdad INCÓMODA sobre Project Lombok' />
 </a>
 
 

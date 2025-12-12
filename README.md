@@ -15,16 +15,16 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/fmulT_MywDE' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/fmulT_MywDE/mqdefault.jpg' alt='Ya soy Oracle ACE | Agradecimiento y lo que viene en el canal' title='Ya soy Oracle ACE | Agradecimiento y lo que viene en el canal' />
+</a>
+
 <a href='https://youtu.be/3lKid4hF90g' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/3lKid4hF90g/mqdefault.jpg' alt='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #4' title='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #4' />
 </a>
 
 <a href='https://youtu.be/wQJ6dOw7hNQ' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/wQJ6dOw7hNQ/mqdefault.jpg' alt='¡POR FIN! Lancé la guía definitiva de Java Moderno GRATIS 🎁' title='¡POR FIN! Lancé la guía definitiva de Java Moderno GRATIS 🎁' />
-</a>
-
-<a href='https://youtu.be/eeOiNlVjc_w' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/eeOiNlVjc_w/mqdefault.jpg' alt='Concurrencia y Paralelismo (explicado con ejemplos reales y con código Java)' title='Concurrencia y Paralelismo (explicado con ejemplos reales y con código Java)' />
 </a>
 
 

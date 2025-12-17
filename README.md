@@ -18,16 +18,16 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/ociJxJqZ35c' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/ociJxJqZ35c/mqdefault.jpg' alt='5 anti-patrones de la arquitectura moderna (y como evitarlos)' title='5 anti-patrones de la arquitectura moderna (y como evitarlos)' />
+</a>
+
 <a href='https://youtu.be/skwYkyUdKwY' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/skwYkyUdKwY/mqdefault.jpg' alt='Autoboxing y unboxing es cuando #java  convierte automáticamente entre tipos primitivos y objetos' title='Autoboxing y unboxing es cuando #java  convierte automáticamente entre tipos primitivos y objetos' />
 </a>
 
 <a href='https://youtu.be/nP9WaWlpwGM' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/nP9WaWlpwGM/mqdefault.jpg' alt='Mi opinión sobre .NET siendo un Java dev ¿Lo odio?' title='Mi opinión sobre .NET siendo un Java dev ¿Lo odio?' />
-</a>
-
-<a href='https://youtu.be/D7CeUPamICk' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/D7CeUPamICk/mqdefault.jpg' alt='Stream navideño 4SD | Regalos, sorpresas y mucho más.' title='Stream navideño 4SD | Regalos, sorpresas y mucho más.' />
 </a>
 
 

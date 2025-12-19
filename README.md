@@ -18,16 +18,16 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
-<a href='https://youtu.be/D7CeUPamICk' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/D7CeUPamICk/mqdefault.jpg' alt='Stream navideño 4SD | Regalos, sorpresas y mucho más.' title='Stream navideño 4SD | Regalos, sorpresas y mucho más.' />
+<a href='https://youtu.be/8MohgNMdJiw' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/8MohgNMdJiw/mqdefault.jpg' alt='Separar números largos en #java es muy fácil #programacion' title='Separar números largos en #java es muy fácil #programacion' />
 </a>
 
-<a href='https://youtu.be/85p6rqlrRkY' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/85p6rqlrRkY/mqdefault.jpg' alt='Inmutable y final no son lo mismo 👀 #java #programming' title='Inmutable y final no son lo mismo 👀 #java #programming' />
+<a href='https://youtu.be/oN66C4xHgwA' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/oN66C4xHgwA/mqdefault.jpg' alt='¿Qué opinas tú del #vibecoding? #humo #ia #inteligenciaartificial' title='¿Qué opinas tú del #vibecoding? #humo #ia #inteligenciaartificial' />
 </a>
 
-<a href='https://youtu.be/wB5nwYq5_PQ' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/wB5nwYq5_PQ/mqdefault.jpg' alt='Los texts blocks en #java, son maravillosos #programming' title='Los texts blocks en #java, son maravillosos #programming' />
+<a href='https://youtu.be/fEx8yP_dN2M' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/fEx8yP_dN2M/mqdefault.jpg' alt='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #5' title='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #5' />
 </a>
 
 

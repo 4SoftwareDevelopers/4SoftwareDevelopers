@@ -18,16 +18,16 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/2C7EBOT9Wzk' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/2C7EBOT9Wzk/mqdefault.jpg' alt='La #jshell de #java es una herramienta infravalorada' title='La #jshell de #java es una herramienta infravalorada' />
+</a>
+
 <a href='https://youtu.be/fEx8yP_dN2M' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/fEx8yP_dN2M/mqdefault.jpg' alt='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #5' title='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #5' />
 </a>
 
 <a href='https://youtu.be/8MohgNMdJiw' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/8MohgNMdJiw/mqdefault.jpg' alt='Separar números largos en #java es muy fácil #programacion' title='Separar números largos en #java es muy fácil #programacion' />
-</a>
-
-<a href='https://youtu.be/oN66C4xHgwA' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/oN66C4xHgwA/mqdefault.jpg' alt='¿Qué opinas tú del #vibecoding? #humo #ia #inteligenciaartificial' title='¿Qué opinas tú del #vibecoding? #humo #ia #inteligenciaartificial' />
 </a>
 
 

@@ -18,16 +18,16 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/G4fogFmAxcU' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/G4fogFmAxcU/mqdefault.jpg' alt='IA para desarrolladores JAVA: Qué automatizar (y qué NO)' title='IA para desarrolladores JAVA: Qué automatizar (y qué NO)' />
+</a>
+
 <a href='https://youtu.be/a6rJ6O0FNZA' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/a6rJ6O0FNZA/mqdefault.jpg' alt='Funciones con parámetros infinitos en #java #programacion' title='Funciones con parámetros infinitos en #java #programacion' />
 </a>
 
 <a href='https://youtu.be/rQL1dDXmFWo' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/rQL1dDXmFWo/mqdefault.jpg' alt='¿++ antes o ++ después? #java #programacion' title='¿++ antes o ++ después? #java #programacion' />
-</a>
-
-<a href='https://youtu.be/2C7EBOT9Wzk' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/2C7EBOT9Wzk/mqdefault.jpg' alt='La #jshell de #java es una herramienta infravalorada' title='La #jshell de #java es una herramienta infravalorada' />
 </a>
 
 

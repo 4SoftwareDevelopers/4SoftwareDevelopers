@@ -18,16 +18,16 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/Duh0OwmBciQ' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/Duh0OwmBciQ/mqdefault.jpg' alt='Evita NullPointerException en #java #programacion' title='Evita NullPointerException en #java #programacion' />
+</a>
+
 <a href='https://youtu.be/3azl6VFPvU4' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/3azl6VFPvU4/mqdefault.jpg' alt='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #5' title='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #5' />
 </a>
 
 <a href='https://youtu.be/CWhI-g08XKs' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/CWhI-g08XKs/mqdefault.jpg' alt='Simplifica las comparaciones de número con la clase Mary de #java #programacion' title='Simplifica las comparaciones de número con la clase Mary de #java #programacion' />
-</a>
-
-<a href='https://youtu.be/ercmnzmFLQc' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/ercmnzmFLQc/mqdefault.jpg' alt='El método isBlank que llegó en #java 11 es muy útil #programacion' title='El método isBlank que llegó en #java 11 es muy útil #programacion' />
 </a>
 
 

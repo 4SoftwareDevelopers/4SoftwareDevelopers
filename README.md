@@ -18,16 +18,16 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/BDzeOi6DREQ' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/BDzeOi6DREQ/mqdefault.jpg' alt='Extraer contenido de listas en #java desde #java17 es mucho más fácil' title='Extraer contenido de listas en #java desde #java17 es mucho más fácil' />
+</a>
+
 <a href='https://youtu.be/e2VZ0lXBZB4' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/e2VZ0lXBZB4/mqdefault.jpg' alt='El método repeat de #java es increíblemente útil #programacion' title='El método repeat de #java es increíblemente útil #programacion' />
 </a>
 
 <a href='https://youtu.be/TiKVQE1G5ro' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/TiKVQE1G5ro/mqdefault.jpg' alt='El instanceof de #java ha evolucionado mucho ¿Lo conocías? #programacion' title='El instanceof de #java ha evolucionado mucho ¿Lo conocías? #programacion' />
-</a>
-
-<a href='https://youtu.be/Duh0OwmBciQ' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/Duh0OwmBciQ/mqdefault.jpg' alt='Evita NullPointerException en #java #programacion' title='Evita NullPointerException en #java #programacion' />
 </a>
 
 

@@ -30,6 +30,18 @@
     <img width='30%' src='https://img.youtube.com/vi/TiKVQE1G5ro/mqdefault.jpg' alt='El instanceof de #java ha evolucionado mucho ¿Lo conocías? #programacion' title='El instanceof de #java ha evolucionado mucho ¿Lo conocías? #programacion' />
 </a>
 
+<a href='https://youtu.be/Duh0OwmBciQ' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/Duh0OwmBciQ/mqdefault.jpg' alt='Evita NullPointerException en #java #programacion' title='Evita NullPointerException en #java #programacion' />
+</a>
+
+<a href='https://youtu.be/3azl6VFPvU4' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/3azl6VFPvU4/mqdefault.jpg' alt='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #5' title='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #5' />
+</a>
+
+<a href='https://youtu.be/CWhI-g08XKs' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/CWhI-g08XKs/mqdefault.jpg' alt='Simplifica las comparaciones de número con la clase Math de #java #programacion' title='Simplifica las comparaciones de número con la clase Math de #java #programacion' />
+</a>
+
 
 ### 👀 Mi perfil en Oracle ACE [detalles aquí](https://ace.oracle.com/ords/ace/profile/jordy4sd)
 

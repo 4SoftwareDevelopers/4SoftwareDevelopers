@@ -18,6 +18,10 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/D615Qw_-_DM' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/D615Qw_-_DM/mqdefault.jpg' alt='TimeUnit puede ser una alternativa superior al Thread.sleep #java #programacion' title='TimeUnit puede ser una alternativa superior al Thread.sleep #java #programacion' />
+</a>
+
 <a href='https://youtu.be/BDzeOi6DREQ' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/BDzeOi6DREQ/mqdefault.jpg' alt='Extraer contenido de listas en #java desde #java17 es mucho más fácil' title='Extraer contenido de listas en #java desde #java17 es mucho más fácil' />
 </a>
@@ -36,10 +40,6 @@
 
 <a href='https://youtu.be/3azl6VFPvU4' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/3azl6VFPvU4/mqdefault.jpg' alt='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #5' title='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #5' />
-</a>
-
-<a href='https://youtu.be/CWhI-g08XKs' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/CWhI-g08XKs/mqdefault.jpg' alt='Simplifica las comparaciones de número con la clase Math de #java #programacion' title='Simplifica las comparaciones de número con la clase Math de #java #programacion' />
 </a>
 
 

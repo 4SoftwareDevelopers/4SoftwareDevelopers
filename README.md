@@ -18,6 +18,10 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/hcw2eSC-T7g' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/hcw2eSC-T7g/mqdefault.jpg' alt='Leer el contenido de archivos en #java es muy fácil #programacion #backend' title='Leer el contenido de archivos en #java es muy fácil #programacion #backend' />
+</a>
+
 <a href='https://youtu.be/p0Wrzn63hxA' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/p0Wrzn63hxA/mqdefault.jpg' alt='Frontend para backend devs | Conceptos clave, ¿Pinta APIs? ¿Hay algo más?' title='Frontend para backend devs | Conceptos clave, ¿Pinta APIs? ¿Hay algo más?' />
 </a>
@@ -36,10 +40,6 @@
 
 <a href='https://youtu.be/TiKVQE1G5ro' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/TiKVQE1G5ro/mqdefault.jpg' alt='El instanceof de #java ha evolucionado mucho ¿Lo conocías? #programacion' title='El instanceof de #java ha evolucionado mucho ¿Lo conocías? #programacion' />
-</a>
-
-<a href='https://youtu.be/Duh0OwmBciQ' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/Duh0OwmBciQ/mqdefault.jpg' alt='Evita NullPointerException en #java #programacion' title='Evita NullPointerException en #java #programacion' />
 </a>
 
 

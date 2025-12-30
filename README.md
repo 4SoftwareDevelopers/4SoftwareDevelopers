@@ -18,6 +18,10 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/5XIxbUMSrn8' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/5XIxbUMSrn8/mqdefault.jpg' alt='Cuenta líneas de streams en #java muy fácil #programacion' title='Cuenta líneas de streams en #java muy fácil #programacion' />
+</a>
+
 <a href='https://youtu.be/9Yw2a4mBDM8' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/9Yw2a4mBDM8/mqdefault.jpg' alt='Stream fin de año | El futuro de la programación | App audios...' title='Stream fin de año | El futuro de la programación | App audios...' />
 </a>
@@ -36,10 +40,6 @@
 
 <a href='https://youtu.be/BDzeOi6DREQ' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/BDzeOi6DREQ/mqdefault.jpg' alt='Extraer contenido de listas en #java desde #java17 es mucho más fácil' title='Extraer contenido de listas en #java desde #java17 es mucho más fácil' />
-</a>
-
-<a href='https://youtu.be/e2VZ0lXBZB4' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/e2VZ0lXBZB4/mqdefault.jpg' alt='El método repeat de #java es increíblemente útil #programacion' title='El método repeat de #java es increíblemente útil #programacion' />
 </a>
 
 

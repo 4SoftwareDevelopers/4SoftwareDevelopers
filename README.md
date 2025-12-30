@@ -18,6 +18,14 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi//mqdefault.jpg' alt='App web de audios' title='App web de audios' />
+</a>
+
+<a href='https://youtu.be/fzcDutZLPho' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/fzcDutZLPho/mqdefault.jpg' alt='Resúmenes estadísticos de listas de números en #java #programacion #backend' title='Resúmenes estadísticos de listas de números en #java #programacion #backend' />
+</a>
+
 <a href='https://youtu.be/9Yw2a4mBDM8' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/9Yw2a4mBDM8/mqdefault.jpg' alt='Stream fin de año | El futuro de la programación | App audios...' title='Stream fin de año | El futuro de la programación | App audios...' />
 </a>
@@ -32,14 +40,6 @@
 
 <a href='https://youtu.be/p0Wrzn63hxA' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/p0Wrzn63hxA/mqdefault.jpg' alt='Frontend para backend devs | Conceptos clave, ¿Pinta APIs? ¿Hay algo más?' title='Frontend para backend devs | Conceptos clave, ¿Pinta APIs? ¿Hay algo más?' />
-</a>
-
-<a href='https://youtu.be/D615Qw_-_DM' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/D615Qw_-_DM/mqdefault.jpg' alt='TimeUnit puede ser una alternativa superior al Thread.sleep #java #programacion' title='TimeUnit puede ser una alternativa superior al Thread.sleep #java #programacion' />
-</a>
-
-<a href='https://youtu.be/BDzeOi6DREQ' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/BDzeOi6DREQ/mqdefault.jpg' alt='Extraer contenido de listas en #java desde #java17 es mucho más fácil' title='Extraer contenido de listas en #java desde #java17 es mucho más fácil' />
 </a>
 
 

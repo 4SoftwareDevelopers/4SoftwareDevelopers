@@ -18,6 +18,10 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/JTeHzcdLfBg' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/JTeHzcdLfBg/mqdefault.jpg' alt='Trabajar con fechas en #java es muy fácil #programacion #backend' title='Trabajar con fechas en #java es muy fácil #programacion #backend' />
+</a>
+
 <a href='https://youtu.be/jd5FBPwlkE8' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/jd5FBPwlkE8/mqdefault.jpg' alt='Descarga mi ebook de #java es Gratis #programacion #backend' title='Descarga mi ebook de #java es Gratis #programacion #backend' />
 </a>
@@ -36,10 +40,6 @@
 
 <a href='https://youtu.be/5XIxbUMSrn8' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/5XIxbUMSrn8/mqdefault.jpg' alt='Cuenta líneas de streams en #java muy fácil #programacion' title='Cuenta líneas de streams en #java muy fácil #programacion' />
-</a>
-
-<a href='https://youtu.be/hcw2eSC-T7g' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/hcw2eSC-T7g/mqdefault.jpg' alt='Leer el contenido de archivos en #java es muy fácil #programacion #backend' title='Leer el contenido de archivos en #java es muy fácil #programacion #backend' />
 </a>
 
 

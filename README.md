@@ -18,6 +18,10 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/di54HsvPc2o' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/di54HsvPc2o/mqdefault.jpg' alt='Pregunta básica en entrevistas #java #programacion #backend' title='Pregunta básica en entrevistas #java #programacion #backend' />
+</a>
+
 <a href='https://youtu.be/C3tdRRUqWNI' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/C3tdRRUqWNI/mqdefault.jpg' alt='Construye rutas de archivos dinámicas en #java #programacion #backend' title='Construye rutas de archivos dinámicas en #java #programacion #backend' />
 </a>
@@ -36,10 +40,6 @@
 
 <a href='https://youtu.be/' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi//mqdefault.jpg' alt='App web de audios' title='App web de audios' />
-</a>
-
-<a href='https://youtu.be/fzcDutZLPho' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/fzcDutZLPho/mqdefault.jpg' alt='Resúmenes estadísticos de listas de números en #java #programacion #backend' title='Resúmenes estadísticos de listas de números en #java #programacion #backend' />
 </a>
 
 

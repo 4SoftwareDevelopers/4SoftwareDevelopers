@@ -18,6 +18,10 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/EcItS2FYjFI' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/EcItS2FYjFI/mqdefault.jpg' alt='System exit puede frenar un finally #java #programacion #backend' title='System exit puede frenar un finally #java #programacion #backend' />
+</a>
+
 <a href='https://youtu.be/di54HsvPc2o' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/di54HsvPc2o/mqdefault.jpg' alt='Pregunta básica en entrevistas #java #programacion #backend' title='Pregunta básica en entrevistas #java #programacion #backend' />
 </a>
@@ -36,10 +40,6 @@
 
 <a href='https://youtu.be/jd5FBPwlkE8' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/jd5FBPwlkE8/mqdefault.jpg' alt='Descarga mi ebook de #java es Gratis #programacion #backend' title='Descarga mi ebook de #java es Gratis #programacion #backend' />
-</a>
-
-<a href='https://youtu.be/' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi//mqdefault.jpg' alt='App web de audios' title='App web de audios' />
 </a>
 
 

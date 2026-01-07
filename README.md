@@ -18,6 +18,10 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/9w4ZWoTKGTk' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/9w4ZWoTKGTk/mqdefault.jpg' alt='El método frequency de #java puede ser muy útil #programacion #backend' title='El método frequency de #java puede ser muy útil #programacion #backend' />
+</a>
+
 <a href='https://youtu.be/EcItS2FYjFI' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/EcItS2FYjFI/mqdefault.jpg' alt='System exit puede frenar un finally #java #programacion #backend' title='System exit puede frenar un finally #java #programacion #backend' />
 </a>
@@ -36,10 +40,6 @@
 
 <a href='https://youtu.be/JTeHzcdLfBg' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/JTeHzcdLfBg/mqdefault.jpg' alt='Trabajar con fechas en #java es muy fácil #programacion #backend' title='Trabajar con fechas en #java es muy fácil #programacion #backend' />
-</a>
-
-<a href='https://youtu.be/jd5FBPwlkE8' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/jd5FBPwlkE8/mqdefault.jpg' alt='Descarga mi ebook de #java es Gratis #programacion #backend' title='Descarga mi ebook de #java es Gratis #programacion #backend' />
 </a>
 
 

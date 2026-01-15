@@ -18,6 +18,10 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/jnMhVxsPgw8' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/jnMhVxsPgw8/mqdefault.jpg' alt='Primer stream del año | IA, Spring AI | Ha pasado de todo entra a charlar' title='Primer stream del año | IA, Spring AI | Ha pasado de todo entra a charlar' />
+</a>
+
 <a href='https://youtu.be/9w4ZWoTKGTk' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/9w4ZWoTKGTk/mqdefault.jpg' alt='El método frequency de #java puede ser muy útil #programacion #backend' title='El método frequency de #java puede ser muy útil #programacion #backend' />
 </a>
@@ -36,10 +40,6 @@
 
 <a href='https://youtu.be/ntV_HNQN7c8' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/ntV_HNQN7c8/mqdefault.jpg' alt='El método strip de #java te puede salvar la vida #programacion #backend' title='El método strip de #java te puede salvar la vida #programacion #backend' />
-</a>
-
-<a href='https://youtu.be/JTeHzcdLfBg' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/JTeHzcdLfBg/mqdefault.jpg' alt='Trabajar con fechas en #java es muy fácil #programacion #backend' title='Trabajar con fechas en #java es muy fácil #programacion #backend' />
 </a>
 
 

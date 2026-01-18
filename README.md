@@ -18,6 +18,10 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/QowauYmNQNE' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/QowauYmNQNE/mqdefault.jpg' alt='El método contentEquals puede ser bastante útil #java #programacion #backend' title='El método contentEquals puede ser bastante útil #java #programacion #backend' />
+</a>
+
 <a href='https://youtu.be/nHXxIMw45yk' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/nHXxIMw45yk/mqdefault.jpg' alt='Primer stream del año | IA, Spring AI | Ha pasado de todo entra a charlar' title='Primer stream del año | IA, Spring AI | Ha pasado de todo entra a charlar' />
 </a>
@@ -36,10 +40,6 @@
 
 <a href='https://youtu.be/C3tdRRUqWNI' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/C3tdRRUqWNI/mqdefault.jpg' alt='Construye rutas de archivos dinámicas en #java #programacion #backend' title='Construye rutas de archivos dinámicas en #java #programacion #backend' />
-</a>
-
-<a href='https://youtu.be/ntV_HNQN7c8' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/ntV_HNQN7c8/mqdefault.jpg' alt='El método strip de #java te puede salvar la vida #programacion #backend' title='El método strip de #java te puede salvar la vida #programacion #backend' />
 </a>
 
 

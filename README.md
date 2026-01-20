@@ -23,7 +23,7 @@
 </a>
 
 <a href='https://youtu.be/f4FNFRLwmzU' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/f4FNFRLwmzU/mqdefault.jpg' alt='Validar bulla en #java es muy fácil #programacion #backend' title='Validar bulla en #java es muy fácil #programacion #backend' />
+    <img width='30%' src='https://img.youtube.com/vi/f4FNFRLwmzU/mqdefault.jpg' alt='Validar null en #java es muy fácil #programacion #backend' title='Validar null en #java es muy fácil #programacion #backend' />
 </a>
 
 <a href='https://youtu.be/QowauYmNQNE' target='_blank'>

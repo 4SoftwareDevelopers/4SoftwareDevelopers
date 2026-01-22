@@ -18,6 +18,10 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/_KnSH2loH6Y' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/_KnSH2loH6Y/mqdefault.jpg' alt='Trabajar con rutas en #java es muy fácil #programacion #backend' title='Trabajar con rutas en #java es muy fácil #programacion #backend' />
+</a>
+
 <a href='https://youtu.be/k3c85Vjc2AY' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/k3c85Vjc2AY/mqdefault.jpg' alt='Los récords llegaron a cambiarlo todo en #java #programacion #backend' title='Los récords llegaron a cambiarlo todo en #java #programacion #backend' />
 </a>
@@ -36,10 +40,6 @@
 
 <a href='https://youtu.be/nHXxIMw45yk' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/nHXxIMw45yk/mqdefault.jpg' alt='Primer stream del año | IA, Spring AI | Ha pasado de todo entra a charlar' title='Primer stream del año | IA, Spring AI | Ha pasado de todo entra a charlar' />
-</a>
-
-<a href='https://youtu.be/9w4ZWoTKGTk' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/9w4ZWoTKGTk/mqdefault.jpg' alt='El método frequency de #java puede ser muy útil #programacion #backend' title='El método frequency de #java puede ser muy útil #programacion #backend' />
 </a>
 
 

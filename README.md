@@ -42,6 +42,82 @@
     <img width='30%' src='https://img.youtube.com/vi/nHXxIMw45yk/mqdefault.jpg' alt='Primer stream del año | IA, Spring AI | Ha pasado de todo entra a charlar' title='Primer stream del año | IA, Spring AI | Ha pasado de todo entra a charlar' />
 </a>
 
+<a href='https://youtu.be/9w4ZWoTKGTk' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/9w4ZWoTKGTk/mqdefault.jpg' alt='El método frequency de #java puede ser muy útil #programacion #backend' title='El método frequency de #java puede ser muy útil #programacion #backend' />
+</a>
+
+<a href='https://youtu.be/EcItS2FYjFI' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/EcItS2FYjFI/mqdefault.jpg' alt='System exit puede frenar un finally #java #programacion #backend' title='System exit puede frenar un finally #java #programacion #backend' />
+</a>
+
+<a href='https://youtu.be/di54HsvPc2o' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/di54HsvPc2o/mqdefault.jpg' alt='Pregunta básica en entrevistas #java #programacion #backend' title='Pregunta básica en entrevistas #java #programacion #backend' />
+</a>
+
+<a href='https://youtu.be/C3tdRRUqWNI' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/C3tdRRUqWNI/mqdefault.jpg' alt='Construye rutas de archivos dinámicas en #java #programacion #backend' title='Construye rutas de archivos dinámicas en #java #programacion #backend' />
+</a>
+
+<a href='https://youtu.be/ntV_HNQN7c8' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/ntV_HNQN7c8/mqdefault.jpg' alt='El método strip de #java te puede salvar la vida #programacion #backend' title='El método strip de #java te puede salvar la vida #programacion #backend' />
+</a>
+
+<a href='https://youtu.be/JTeHzcdLfBg' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/JTeHzcdLfBg/mqdefault.jpg' alt='Trabajar con fechas en #java es muy fácil #programacion #backend' title='Trabajar con fechas en #java es muy fácil #programacion #backend' />
+</a>
+
+<a href='https://youtu.be/jd5FBPwlkE8' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/jd5FBPwlkE8/mqdefault.jpg' alt='Descarga mi ebook de #java es Gratis #programacion #backend' title='Descarga mi ebook de #java es Gratis #programacion #backend' />
+</a>
+
+<a href='https://youtu.be/' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi//mqdefault.jpg' alt='App web de audios' title='App web de audios' />
+</a>
+
+<a href='https://youtu.be/fzcDutZLPho' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/fzcDutZLPho/mqdefault.jpg' alt='Resúmenes estadísticos de listas de números en #java #programacion #backend' title='Resúmenes estadísticos de listas de números en #java #programacion #backend' />
+</a>
+
+<a href='https://youtu.be/9Yw2a4mBDM8' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/9Yw2a4mBDM8/mqdefault.jpg' alt='Stream fin de año | El futuro de la programación | App audios...' title='Stream fin de año | El futuro de la programación | App audios...' />
+</a>
+
+<a href='https://youtu.be/5XIxbUMSrn8' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/5XIxbUMSrn8/mqdefault.jpg' alt='Cuenta líneas de streams en #java muy fácil #programacion' title='Cuenta líneas de streams en #java muy fácil #programacion' />
+</a>
+
+<a href='https://youtu.be/hcw2eSC-T7g' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/hcw2eSC-T7g/mqdefault.jpg' alt='Leer el contenido de archivos en #java es muy fácil #programacion #backend' title='Leer el contenido de archivos en #java es muy fácil #programacion #backend' />
+</a>
+
+<a href='https://youtu.be/p0Wrzn63hxA' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/p0Wrzn63hxA/mqdefault.jpg' alt='Frontend para backend devs | Conceptos clave, ¿Pinta APIs? ¿Hay algo más?' title='Frontend para backend devs | Conceptos clave, ¿Pinta APIs? ¿Hay algo más?' />
+</a>
+
+<a href='https://youtu.be/D615Qw_-_DM' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/D615Qw_-_DM/mqdefault.jpg' alt='TimeUnit puede ser una alternativa superior al Thread.sleep #java #programacion' title='TimeUnit puede ser una alternativa superior al Thread.sleep #java #programacion' />
+</a>
+
+<a href='https://youtu.be/BDzeOi6DREQ' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/BDzeOi6DREQ/mqdefault.jpg' alt='Extraer contenido de listas en #java desde #java17 es mucho más fácil' title='Extraer contenido de listas en #java desde #java17 es mucho más fácil' />
+</a>
+
+<a href='https://youtu.be/e2VZ0lXBZB4' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/e2VZ0lXBZB4/mqdefault.jpg' alt='El método repeat de #java es increíblemente útil #programacion' title='El método repeat de #java es increíblemente útil #programacion' />
+</a>
+
+<a href='https://youtu.be/TiKVQE1G5ro' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/TiKVQE1G5ro/mqdefault.jpg' alt='El instanceof de #java ha evolucionado mucho ¿Lo conocías? #programacion' title='El instanceof de #java ha evolucionado mucho ¿Lo conocías? #programacion' />
+</a>
+
+<a href='https://youtu.be/Duh0OwmBciQ' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/Duh0OwmBciQ/mqdefault.jpg' alt='Evita NullPointerException en #java #programacion' title='Evita NullPointerException en #java #programacion' />
+</a>
+
+<a href='https://youtu.be/3azl6VFPvU4' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/3azl6VFPvU4/mqdefault.jpg' alt='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #5' title='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #5' />
+</a>
+
 
 ### 👀 Mi perfil en Oracle ACE [detalles aquí](https://ace.oracle.com/ords/ace/profile/jordy4sd)
 

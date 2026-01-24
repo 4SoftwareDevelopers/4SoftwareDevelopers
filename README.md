@@ -18,6 +18,10 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/o6uaIeDE3eM' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/o6uaIeDE3eM/mqdefault.jpg' alt='El foreach de #java puede simplificar mucho tu código #programacion #backend' title='El foreach de #java puede simplificar mucho tu código #programacion #backend' />
+</a>
+
 <a href='https://youtu.be/_KnSH2loH6Y' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/_KnSH2loH6Y/mqdefault.jpg' alt='Trabajar con rutas en #java es muy fácil #programacion #backend' title='Trabajar con rutas en #java es muy fácil #programacion #backend' />
 </a>
@@ -36,10 +40,6 @@
 
 <a href='https://youtu.be/QowauYmNQNE' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/QowauYmNQNE/mqdefault.jpg' alt='El método contentEquals puede ser bastante útil #java #programacion #backend' title='El método contentEquals puede ser bastante útil #java #programacion #backend' />
-</a>
-
-<a href='https://youtu.be/nHXxIMw45yk' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/nHXxIMw45yk/mqdefault.jpg' alt='Primer stream del año | IA, Spring AI | Ha pasado de todo entra a charlar' title='Primer stream del año | IA, Spring AI | Ha pasado de todo entra a charlar' />
 </a>
 
 

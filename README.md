@@ -18,6 +18,10 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/n_Ov-qmKh-o' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/n_Ov-qmKh-o/mqdefault.jpg' alt='El nuevo switch de #java es muy interesante y completo #backend #programacion' title='El nuevo switch de #java es muy interesante y completo #backend #programacion' />
+</a>
+
 <a href='https://youtu.be/o6uaIeDE3eM' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/o6uaIeDE3eM/mqdefault.jpg' alt='El foreach de #java puede simplificar mucho tu código #programacion #backend' title='El foreach de #java puede simplificar mucho tu código #programacion #backend' />
 </a>
@@ -36,10 +40,6 @@
 
 <a href='https://youtu.be/f4FNFRLwmzU' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/f4FNFRLwmzU/mqdefault.jpg' alt='Validar null en #java es muy fácil #programacion #backend' title='Validar null en #java es muy fácil #programacion #backend' />
-</a>
-
-<a href='https://youtu.be/QowauYmNQNE' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/QowauYmNQNE/mqdefault.jpg' alt='El método contentEquals puede ser bastante útil #java #programacion #backend' title='El método contentEquals puede ser bastante útil #java #programacion #backend' />
 </a>
 
 

@@ -18,6 +18,10 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/kdGcDPlzPtE' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/kdGcDPlzPtE/mqdefault.jpg' alt='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #6' title='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #6' />
+</a>
+
 <a href='https://youtu.be/cEcMThK39iM' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/cEcMThK39iM/mqdefault.jpg' alt='El ROADMAP que NECESITAS para ser Java Dev y CONSEGUIR EMPLEO este 2026' title='El ROADMAP que NECESITAS para ser Java Dev y CONSEGUIR EMPLEO este 2026' />
 </a>
@@ -36,10 +40,6 @@
 
 <a href='https://youtu.be/k3c85Vjc2AY' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/k3c85Vjc2AY/mqdefault.jpg' alt='Los récords llegaron a cambiarlo todo en #java #programacion #backend' title='Los récords llegaron a cambiarlo todo en #java #programacion #backend' />
-</a>
-
-<a href='https://youtu.be/Jy91RoZpwJI' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/Jy91RoZpwJI/mqdefault.jpg' alt='La palabra reservada var es útil pero hay que saber usarla #java #programacion #backend' title='La palabra reservada var es útil pero hay que saber usarla #java #programacion #backend' />
 </a>
 
 

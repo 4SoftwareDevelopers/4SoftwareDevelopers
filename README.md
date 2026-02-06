@@ -18,8 +18,8 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
-<a href='https://youtu.be/kdGcDPlzPtE' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/kdGcDPlzPtE/mqdefault.jpg' alt='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #6' title='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #6' />
+<a href='https://youtu.be/VkhMV5Ofvf8' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/VkhMV5Ofvf8/mqdefault.jpg' alt='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #6' title='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #6' />
 </a>
 
 <a href='https://youtu.be/cEcMThK39iM' target='_blank'>

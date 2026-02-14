@@ -18,6 +18,10 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/knzj8v6PKsI' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/knzj8v6PKsI/mqdefault.jpg' alt='Deja de confundir ARQUITECTURA con estructura' title='Deja de confundir ARQUITECTURA con estructura' />
+</a>
+
 <a href='https://youtu.be/nOmk92Iq2yE' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/nOmk92Iq2yE/mqdefault.jpg' alt='Probamos Kilo Code en vivo + Sorteo de licencia JetBrains' title='Probamos Kilo Code en vivo + Sorteo de licencia JetBrains' />
 </a>
@@ -36,10 +40,6 @@
 
 <a href='https://youtu.be/o6uaIeDE3eM' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/o6uaIeDE3eM/mqdefault.jpg' alt='El foreach de #java puede simplificar mucho tu código #programacion #backend' title='El foreach de #java puede simplificar mucho tu código #programacion #backend' />
-</a>
-
-<a href='https://youtu.be/_KnSH2loH6Y' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/_KnSH2loH6Y/mqdefault.jpg' alt='Trabajar con rutas en #java es muy fácil #programacion #backend' title='Trabajar con rutas en #java es muy fácil #programacion #backend' />
 </a>
 
 

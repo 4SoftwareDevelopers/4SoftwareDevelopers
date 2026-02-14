@@ -19,7 +19,7 @@
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
 <a href='https://youtu.be/knzj8v6PKsI' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/knzj8v6PKsI/mqdefault.jpg' alt='Deja de confundir ARQUITECTURA con estructura' title='Deja de confundir ARQUITECTURA con estructura' />
+    <img width='30%' src='https://img.youtube.com/vi/knzj8v6PKsI/mqdefault.jpg' alt='Hexgonal, Clean, Onion y Capas NO son ARQUITECTURAS (o no del todo)' title='Hexgonal, Clean, Onion y Capas NO son ARQUITECTURAS (o no del todo)' />
 </a>
 
 <a href='https://youtu.be/nOmk92Iq2yE' target='_blank'>

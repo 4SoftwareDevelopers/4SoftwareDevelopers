@@ -18,6 +18,10 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/5AvWlSwbUCg' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/5AvWlSwbUCg/mqdefault.jpg' alt='¿Qué pasará con la arquitectura de software?' title='¿Qué pasará con la arquitectura de software?' />
+</a>
+
 <a href='https://youtu.be/x-nh-ZmaIHw' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/x-nh-ZmaIHw/mqdefault.jpg' alt='Multi-Tenant: La arquitectura SaaS por defecto' title='Multi-Tenant: La arquitectura SaaS por defecto' />
 </a>
@@ -36,10 +40,6 @@
 
 <a href='https://youtu.be/cEcMThK39iM' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/cEcMThK39iM/mqdefault.jpg' alt='El ROADMAP que NECESITAS para ser Java Dev y CONSEGUIR EMPLEO este 2026' title='El ROADMAP que NECESITAS para ser Java Dev y CONSEGUIR EMPLEO este 2026' />
-</a>
-
-<a href='https://youtu.be/n_Ov-qmKh-o' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/n_Ov-qmKh-o/mqdefault.jpg' alt='El nuevo switch de #java es muy interesante y completo #backend #programacion' title='El nuevo switch de #java es muy interesante y completo #backend #programacion' />
 </a>
 
 

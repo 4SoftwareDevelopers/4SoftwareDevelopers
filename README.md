@@ -18,6 +18,10 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/uSp8ddaYbGM' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/uSp8ddaYbGM/mqdefault.jpg' alt='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #9' title='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #9' />
+</a>
+
 <a href='https://youtu.be/5AvWlSwbUCg' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/5AvWlSwbUCg/mqdefault.jpg' alt='¿Qué pasará con la arquitectura de software?' title='¿Qué pasará con la arquitectura de software?' />
 </a>
@@ -36,10 +40,6 @@
 
 <a href='https://youtu.be/VkhMV5Ofvf8' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/VkhMV5Ofvf8/mqdefault.jpg' alt='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #6' title='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #6' />
-</a>
-
-<a href='https://youtu.be/cEcMThK39iM' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/cEcMThK39iM/mqdefault.jpg' alt='El ROADMAP que NECESITAS para ser Java Dev y CONSEGUIR EMPLEO este 2026' title='El ROADMAP que NECESITAS para ser Java Dev y CONSEGUIR EMPLEO este 2026' />
 </a>
 
 

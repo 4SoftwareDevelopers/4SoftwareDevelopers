@@ -42,26 +42,6 @@
     <img width='30%' src='https://img.youtube.com/vi/VkhMV5Ofvf8/mqdefault.jpg' alt='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #6' title='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #6' />
 </a>
 
-<a href='https://youtu.be/cEcMThK39iM' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/cEcMThK39iM/mqdefault.jpg' alt='El ROADMAP que NECESITAS para ser Java Dev y CONSEGUIR EMPLEO este 2026' title='El ROADMAP que NECESITAS para ser Java Dev y CONSEGUIR EMPLEO este 2026' />
-</a>
-
-<a href='https://youtu.be/nHXxIMw45yk' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/nHXxIMw45yk/mqdefault.jpg' alt='Primer stream del año | IA, Spring AI | Ha pasado de todo entra a charlar' title='Primer stream del año | IA, Spring AI | Ha pasado de todo entra a charlar' />
-</a>
-
-<a href='https://youtu.be/' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi//mqdefault.jpg' alt='App web de audios' title='App web de audios' />
-</a>
-
-<a href='https://youtu.be/9Yw2a4mBDM8' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/9Yw2a4mBDM8/mqdefault.jpg' alt='Stream fin de año | El futuro de la programación | App audios...' title='Stream fin de año | El futuro de la programación | App audios...' />
-</a>
-
-<a href='https://youtu.be/p0Wrzn63hxA' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/p0Wrzn63hxA/mqdefault.jpg' alt='Frontend para backend devs | Conceptos clave, ¿Pinta APIs? ¿Hay algo más?' title='Frontend para backend devs | Conceptos clave, ¿Pinta APIs? ¿Hay algo más?' />
-</a>
-
 
 ### 👀 Mi perfil en Oracle ACE [detalles aquí](https://ace.oracle.com/ords/ace/profile/jordy4sd)
 

@@ -18,8 +18,12 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/sSRBhaKad9M' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/sSRBhaKad9M/mqdefault.jpg' alt='¿Suben los precios de la IA? | Cursor te obliga a quemar tokens | ¿Qué alternativas hay?' title='¿Suben los precios de la IA? | Cursor te obliga a quemar tokens | ¿Qué alternativas hay?' />
+</a>
+
 <a href='https://youtu.be/1c8_jxPqV1k' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/1c8_jxPqV1k/mqdefault.jpg' alt='Hay muchas opciones para usar IA GRATIS' title='Hay muchas opciones para usar IA GRATIS' />
+    <img width='30%' src='https://img.youtube.com/vi/1c8_jxPqV1k/mqdefault.jpg' alt='DEJA de pagar por usar IA' title='DEJA de pagar por usar IA' />
 </a>
 
 <a href='https://youtu.be/uSp8ddaYbGM' target='_blank'>
@@ -36,10 +40,6 @@
 
 <a href='https://youtu.be/knzj8v6PKsI' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/knzj8v6PKsI/mqdefault.jpg' alt='Hexgonal, Clean, Onion y Capas NO son ARQUITECTURAS (o no del todo)' title='Hexgonal, Clean, Onion y Capas NO son ARQUITECTURAS (o no del todo)' />
-</a>
-
-<a href='https://youtu.be/nOmk92Iq2yE' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/nOmk92Iq2yE/mqdefault.jpg' alt='Probamos Kilo Code en vivo + Sorteo de licencia JetBrains' title='Probamos Kilo Code en vivo + Sorteo de licencia JetBrains' />
 </a>
 
 

@@ -22,10 +22,6 @@
     <img width='30%' src='https://img.youtube.com/vi/1c8_jxPqV1k/mqdefault.jpg' alt='Hay muchas opciones para usar IA GRATIS' title='Hay muchas opciones para usar IA GRATIS' />
 </a>
 
-<a href='https://youtu.be/sSRBhaKad9M' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/sSRBhaKad9M/mqdefault.jpg' alt='¿Suben los precios de la IA? | Cursor te obliga a quemar tokens | ¿Qué alternativas hay?' title='¿Suben los precios de la IA? | Cursor te obliga a quemar tokens | ¿Qué alternativas hay?' />
-</a>
-
 <a href='https://youtu.be/uSp8ddaYbGM' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/uSp8ddaYbGM/mqdefault.jpg' alt='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #9' title='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #9' />
 </a>
@@ -40,6 +36,10 @@
 
 <a href='https://youtu.be/knzj8v6PKsI' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/knzj8v6PKsI/mqdefault.jpg' alt='Hexgonal, Clean, Onion y Capas NO son ARQUITECTURAS (o no del todo)' title='Hexgonal, Clean, Onion y Capas NO son ARQUITECTURAS (o no del todo)' />
+</a>
+
+<a href='https://youtu.be/nOmk92Iq2yE' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/nOmk92Iq2yE/mqdefault.jpg' alt='Probamos Kilo Code en vivo + Sorteo de licencia JetBrains' title='Probamos Kilo Code en vivo + Sorteo de licencia JetBrains' />
 </a>
 
 

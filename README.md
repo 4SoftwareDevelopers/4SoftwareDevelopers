@@ -18,6 +18,10 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/8Enos4GbGEE' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/8Enos4GbGEE/mqdefault.jpg' alt='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #11' title='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #11' />
+</a>
+
 <a href='https://youtu.be/4GVzqDkLLvI' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/4GVzqDkLLvI/mqdefault.jpg' alt='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #10' title='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #10' />
 </a>
@@ -36,10 +40,6 @@
 
 <a href='https://youtu.be/5AvWlSwbUCg' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/5AvWlSwbUCg/mqdefault.jpg' alt='¿La IA resolvio la arquitectura de software para siempre? Los arquitectos a la calle!' title='¿La IA resolvio la arquitectura de software para siempre? Los arquitectos a la calle!' />
-</a>
-
-<a href='https://youtu.be/x-nh-ZmaIHw' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/x-nh-ZmaIHw/mqdefault.jpg' alt='Multi-Tenant: La arquitectura SaaS por defecto' title='Multi-Tenant: La arquitectura SaaS por defecto' />
 </a>
 
 

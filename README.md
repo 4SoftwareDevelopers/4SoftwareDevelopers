@@ -35,7 +35,7 @@
 </a>
 
 <a href='https://youtu.be/5AvWlSwbUCg' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/5AvWlSwbUCg/mqdefault.jpg' alt='¿Qué pasará con la arquitectura de software?' title='¿Qué pasará con la arquitectura de software?' />
+    <img width='30%' src='https://img.youtube.com/vi/5AvWlSwbUCg/mqdefault.jpg' alt='¿La IA resolvio la arquitectura de software para siempre? Los arquitectos a la calle!' title='¿La IA resolvio la arquitectura de software para siempre? Los arquitectos a la calle!' />
 </a>
 
 <a href='https://youtu.be/x-nh-ZmaIHw' target='_blank'>

@@ -18,6 +18,10 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/WNB7Ilij39w' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/WNB7Ilij39w/mqdefault.jpg' alt='Tu código se ve ordenado pero está mal' title='Tu código se ve ordenado pero está mal' />
+</a>
+
 <a href='https://youtu.be/xKFxu4ckKts' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/xKFxu4ckKts/mqdefault.jpg' alt='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #12' title='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #12' />
 </a>
@@ -36,10 +40,6 @@
 
 <a href='https://youtu.be/1c8_jxPqV1k' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/1c8_jxPqV1k/mqdefault.jpg' alt='DEJA de pagar por usar IA' title='DEJA de pagar por usar IA' />
-</a>
-
-<a href='https://youtu.be/uSp8ddaYbGM' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/uSp8ddaYbGM/mqdefault.jpg' alt='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #9' title='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #9' />
 </a>
 
 

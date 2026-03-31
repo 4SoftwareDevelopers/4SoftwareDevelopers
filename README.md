@@ -70,12 +70,52 @@
     <img width='30%' src='https://img.youtube.com/vi/cEcMThK39iM/mqdefault.jpg' alt='Consigue empleo como Java Dev con este roadmap (2026)' title='Consigue empleo como Java Dev con este roadmap (2026)' />
 </a>
 
+<a href='https://youtu.be/n_Ov-qmKh-o' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/n_Ov-qmKh-o/mqdefault.jpg' alt='El nuevo switch de #java es muy interesante y completo #backend #programacion' title='El nuevo switch de #java es muy interesante y completo #backend #programacion' />
+</a>
+
+<a href='https://youtu.be/o6uaIeDE3eM' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/o6uaIeDE3eM/mqdefault.jpg' alt='El foreach de #java puede simplificar mucho tu código #programacion #backend' title='El foreach de #java puede simplificar mucho tu código #programacion #backend' />
+</a>
+
+<a href='https://youtu.be/_KnSH2loH6Y' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/_KnSH2loH6Y/mqdefault.jpg' alt='Trabajar con rutas en #java es muy fácil #programacion #backend' title='Trabajar con rutas en #java es muy fácil #programacion #backend' />
+</a>
+
+<a href='https://youtu.be/k3c85Vjc2AY' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/k3c85Vjc2AY/mqdefault.jpg' alt='Los récords llegaron a cambiarlo todo en #java #programacion #backend' title='Los récords llegaron a cambiarlo todo en #java #programacion #backend' />
+</a>
+
+<a href='https://youtu.be/Jy91RoZpwJI' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/Jy91RoZpwJI/mqdefault.jpg' alt='La palabra reservada var es útil pero hay que saber usarla #java #programacion #backend' title='La palabra reservada var es útil pero hay que saber usarla #java #programacion #backend' />
+</a>
+
+<a href='https://youtu.be/f4FNFRLwmzU' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/f4FNFRLwmzU/mqdefault.jpg' alt='Validar null en #java es muy fácil #programacion #backend' title='Validar null en #java es muy fácil #programacion #backend' />
+</a>
+
+<a href='https://youtu.be/QowauYmNQNE' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/QowauYmNQNE/mqdefault.jpg' alt='El método contentEquals puede ser bastante útil #java #programacion #backend' title='El método contentEquals puede ser bastante útil #java #programacion #backend' />
+</a>
+
 <a href='https://youtu.be/nHXxIMw45yk' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/nHXxIMw45yk/mqdefault.jpg' alt='Primer stream del año | IA, Spring AI | Ha pasado de todo entra a charlar' title='Primer stream del año | IA, Spring AI | Ha pasado de todo entra a charlar' />
 </a>
 
-<a href='https://youtu.be/' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi//mqdefault.jpg' alt='App web de audios' title='App web de audios' />
+<a href='https://youtu.be/9w4ZWoTKGTk' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/9w4ZWoTKGTk/mqdefault.jpg' alt='El método frequency de #java puede ser muy útil #programacion #backend' title='El método frequency de #java puede ser muy útil #programacion #backend' />
+</a>
+
+<a href='https://youtu.be/EcItS2FYjFI' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/EcItS2FYjFI/mqdefault.jpg' alt='System exit puede frenar un finally #java #programacion #backend' title='System exit puede frenar un finally #java #programacion #backend' />
+</a>
+
+<a href='https://youtu.be/di54HsvPc2o' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/di54HsvPc2o/mqdefault.jpg' alt='Pregunta básica en entrevistas #java #programacion #backend' title='Pregunta básica en entrevistas #java #programacion #backend' />
+</a>
+
+<a href='https://youtu.be/C3tdRRUqWNI' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/C3tdRRUqWNI/mqdefault.jpg' alt='Construye rutas de archivos dinámicas en #java #programacion #backend' title='Construye rutas de archivos dinámicas en #java #programacion #backend' />
 </a>
 
 

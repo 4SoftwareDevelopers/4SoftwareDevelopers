@@ -42,6 +42,42 @@
     <img width='30%' src='https://img.youtube.com/vi/1c8_jxPqV1k/mqdefault.jpg' alt='DEJA de pagar por usar IA' title='DEJA de pagar por usar IA' />
 </a>
 
+<a href='https://youtu.be/uSp8ddaYbGM' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/uSp8ddaYbGM/mqdefault.jpg' alt='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #9' title='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #9' />
+</a>
+
+<a href='https://youtu.be/5AvWlSwbUCg' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/5AvWlSwbUCg/mqdefault.jpg' alt='El oscuro futuro de la arquitectura de software' title='El oscuro futuro de la arquitectura de software' />
+</a>
+
+<a href='https://youtu.be/x-nh-ZmaIHw' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/x-nh-ZmaIHw/mqdefault.jpg' alt='Multi-Tenant: La arquitectura SaaS por defecto' title='Multi-Tenant: La arquitectura SaaS por defecto' />
+</a>
+
+<a href='https://youtu.be/knzj8v6PKsI' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/knzj8v6PKsI/mqdefault.jpg' alt='El error más común al hablar de arquitectura' title='El error más común al hablar de arquitectura' />
+</a>
+
+<a href='https://youtu.be/nOmk92Iq2yE' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/nOmk92Iq2yE/mqdefault.jpg' alt='Probamos Kilo Code en vivo + Sorteo de licencia JetBrains' title='Probamos Kilo Code en vivo + Sorteo de licencia JetBrains' />
+</a>
+
+<a href='https://youtu.be/VkhMV5Ofvf8' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/VkhMV5Ofvf8/mqdefault.jpg' alt='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #6' title='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #6' />
+</a>
+
+<a href='https://youtu.be/cEcMThK39iM' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/cEcMThK39iM/mqdefault.jpg' alt='Consigue empleo como Java Dev con este roadmap (2026)' title='Consigue empleo como Java Dev con este roadmap (2026)' />
+</a>
+
+<a href='https://youtu.be/nHXxIMw45yk' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/nHXxIMw45yk/mqdefault.jpg' alt='Primer stream del año | IA, Spring AI | Ha pasado de todo entra a charlar' title='Primer stream del año | IA, Spring AI | Ha pasado de todo entra a charlar' />
+</a>
+
+<a href='https://youtu.be/' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi//mqdefault.jpg' alt='App web de audios' title='App web de audios' />
+</a>
+
 
 ### 👀 Mi perfil en Oracle ACE [detalles aquí](https://ace.oracle.com/ords/ace/profile/jordy4sd)
 

@@ -19,7 +19,7 @@
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
 <a href='https://youtu.be/WNB7Ilij39w' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/WNB7Ilij39w/mqdefault.jpg' alt='Haz esto y olvídate del código desordenado' title='Haz esto y olvídate del código desordenado' />
+    <img width='30%' src='https://img.youtube.com/vi/WNB7Ilij39w/mqdefault.jpg' alt='Vertical Slice es...' title='Vertical Slice es...' />
 </a>
 
 <a href='https://youtu.be/xKFxu4ckKts' target='_blank'>

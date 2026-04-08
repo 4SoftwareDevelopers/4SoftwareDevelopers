@@ -18,6 +18,10 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/53dQMk5uk1A' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/53dQMk5uk1A/mqdefault.jpg' alt='¿Cómo empezar a pensar como Arquitecto de Software?' title='¿Cómo empezar a pensar como Arquitecto de Software?' />
+</a>
+
 <a href='https://youtu.be/WNB7Ilij39w' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/WNB7Ilij39w/mqdefault.jpg' alt='Vertical Slice es...' title='Vertical Slice es...' />
 </a>
@@ -36,10 +40,6 @@
 
 <a href='https://youtu.be/sSRBhaKad9M' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/sSRBhaKad9M/mqdefault.jpg' alt='¿Suben los precios de la IA? | Cursor te obliga a quemar tokens | ¿Qué alternativas hay?' title='¿Suben los precios de la IA? | Cursor te obliga a quemar tokens | ¿Qué alternativas hay?' />
-</a>
-
-<a href='https://youtu.be/1c8_jxPqV1k' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/1c8_jxPqV1k/mqdefault.jpg' alt='DEJA de pagar por usar IA' title='DEJA de pagar por usar IA' />
 </a>
 
 

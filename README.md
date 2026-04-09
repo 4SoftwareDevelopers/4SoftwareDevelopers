@@ -18,6 +18,10 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/frqZlVLCYB8' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/frqZlVLCYB8/mqdefault.jpg' alt='Java NO es para todo (pero aquí domina)' title='Java NO es para todo (pero aquí domina)' />
+</a>
+
 <a href='https://youtu.be/53dQMk5uk1A' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/53dQMk5uk1A/mqdefault.jpg' alt='¿Cómo empezar a pensar como Arquitecto de Software?' title='¿Cómo empezar a pensar como Arquitecto de Software?' />
 </a>
@@ -36,10 +40,6 @@
 
 <a href='https://youtu.be/4GVzqDkLLvI' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/4GVzqDkLLvI/mqdefault.jpg' alt='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #10' title='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #10' />
-</a>
-
-<a href='https://youtu.be/sSRBhaKad9M' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/sSRBhaKad9M/mqdefault.jpg' alt='¿Suben los precios de la IA? | Cursor te obliga a quemar tokens | ¿Qué alternativas hay?' title='¿Suben los precios de la IA? | Cursor te obliga a quemar tokens | ¿Qué alternativas hay?' />
 </a>
 
 

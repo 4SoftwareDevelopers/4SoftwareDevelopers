@@ -18,6 +18,18 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi//mqdefault.jpg' alt='Tips Rápidos de Java ☕' title='Tips Rápidos de Java ☕' />
+</a>
+
+<a href='https://youtu.be/' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi//mqdefault.jpg' alt='Arquitectura de Software Sin Humo 🏗️' title='Arquitectura de Software Sin Humo 🏗️' />
+</a>
+
+<a href='https://youtu.be/' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi//mqdefault.jpg' alt='Patrones y Buenas Prácticas en Java 📐' title='Patrones y Buenas Prácticas en Java 📐' />
+</a>
+
 <a href='https://youtu.be/frqZlVLCYB8' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/frqZlVLCYB8/mqdefault.jpg' alt='Java NO es para todo (pero aquí domina)' title='Java NO es para todo (pero aquí domina)' />
 </a>
@@ -28,18 +40,6 @@
 
 <a href='https://youtu.be/WNB7Ilij39w' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/WNB7Ilij39w/mqdefault.jpg' alt='Vertical Slice es...' title='Vertical Slice es...' />
-</a>
-
-<a href='https://youtu.be/xKFxu4ckKts' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/xKFxu4ckKts/mqdefault.jpg' alt='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #12' title='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #12' />
-</a>
-
-<a href='https://youtu.be/8Enos4GbGEE' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/8Enos4GbGEE/mqdefault.jpg' alt='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #11' title='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #11' />
-</a>
-
-<a href='https://youtu.be/4GVzqDkLLvI' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/4GVzqDkLLvI/mqdefault.jpg' alt='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #10' title='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #10' />
 </a>
 
 

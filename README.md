@@ -18,6 +18,18 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/FI1b_7_Do_Y' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/FI1b_7_Do_Y/mqdefault.jpg' alt='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #15' title='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #15' />
+</a>
+
+<a href='https://youtu.be/-RJXbj58nL8' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/-RJXbj58nL8/mqdefault.jpg' alt='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #14' title='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #14' />
+</a>
+
+<a href='https://youtu.be/8-xJ6QuXuXg' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/8-xJ6QuXuXg/mqdefault.jpg' alt='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #13' title='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #13' />
+</a>
+
 <a href='https://youtu.be/' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi//mqdefault.jpg' alt='Tips Rápidos de Java ☕' title='Tips Rápidos de Java ☕' />
 </a>
@@ -28,18 +40,6 @@
 
 <a href='https://youtu.be/' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi//mqdefault.jpg' alt='Patrones y Buenas Prácticas en Java 📐' title='Patrones y Buenas Prácticas en Java 📐' />
-</a>
-
-<a href='https://youtu.be/frqZlVLCYB8' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/frqZlVLCYB8/mqdefault.jpg' alt='Java NO es para todo (pero aquí domina)' title='Java NO es para todo (pero aquí domina)' />
-</a>
-
-<a href='https://youtu.be/53dQMk5uk1A' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/53dQMk5uk1A/mqdefault.jpg' alt='¿Cómo empezar a pensar como Arquitecto de Software?' title='¿Cómo empezar a pensar como Arquitecto de Software?' />
-</a>
-
-<a href='https://youtu.be/WNB7Ilij39w' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/WNB7Ilij39w/mqdefault.jpg' alt='Vertical Slice es...' title='Vertical Slice es...' />
 </a>
 
 

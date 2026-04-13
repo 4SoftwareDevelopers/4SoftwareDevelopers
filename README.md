@@ -38,8 +38,8 @@
     <img width='30%' src='https://img.youtube.com/vi//mqdefault.jpg' alt='Arquitectura de Software Sin Humo 🏗️' title='Arquitectura de Software Sin Humo 🏗️' />
 </a>
 
-<a href='https://youtu.be/' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi//mqdefault.jpg' alt='Patrones y Buenas Prácticas en Java 📐' title='Patrones y Buenas Prácticas en Java 📐' />
+<a href='https://youtu.be/frqZlVLCYB8' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/frqZlVLCYB8/mqdefault.jpg' alt='Java NO es para todo (pero aquí domina)' title='Java NO es para todo (pero aquí domina)' />
 </a>
 
 

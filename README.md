@@ -18,6 +18,10 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/jiZk69pPUwo' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/jiZk69pPUwo/mqdefault.jpg' alt='La IA elimina el principal argumento contra Java' title='La IA elimina el principal argumento contra Java' />
+</a>
+
 <a href='https://youtu.be/FI1b_7_Do_Y' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/FI1b_7_Do_Y/mqdefault.jpg' alt='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #15' title='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #15' />
 </a>
@@ -36,10 +40,6 @@
 
 <a href='https://youtu.be/' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi//mqdefault.jpg' alt='Arquitectura de Software Sin Humo 🏗️' title='Arquitectura de Software Sin Humo 🏗️' />
-</a>
-
-<a href='https://youtu.be/frqZlVLCYB8' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/frqZlVLCYB8/mqdefault.jpg' alt='Java NO es para todo (pero aquí domina)' title='Java NO es para todo (pero aquí domina)' />
 </a>
 
 

@@ -30,16 +30,16 @@
     <img width='30%' src='https://img.youtube.com/vi/-RJXbj58nL8/mqdefault.jpg' alt='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #14' title='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #14' />
 </a>
 
-<a href='https://youtu.be/8-xJ6QuXuXg' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/8-xJ6QuXuXg/mqdefault.jpg' alt='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #13' title='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #13' />
-</a>
-
 <a href='https://youtu.be/' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi//mqdefault.jpg' alt='Tips Rápidos de Java ☕' title='Tips Rápidos de Java ☕' />
 </a>
 
 <a href='https://youtu.be/' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi//mqdefault.jpg' alt='Arquitectura de Software Sin Humo 🏗️' title='Arquitectura de Software Sin Humo 🏗️' />
+</a>
+
+<a href='https://youtu.be/frqZlVLCYB8' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/frqZlVLCYB8/mqdefault.jpg' alt='Java NO es para todo (pero aquí domina)' title='Java NO es para todo (pero aquí domina)' />
 </a>
 
 

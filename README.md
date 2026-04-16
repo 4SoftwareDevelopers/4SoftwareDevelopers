@@ -18,6 +18,18 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/4OEHpa8tM9I' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/4OEHpa8tM9I/mqdefault.jpg' alt='#java #springboot #javarecord #programacion #ia' title='#java #springboot #javarecord #programacion #ia' />
+</a>
+
+<a href='https://youtu.be/1VLhUcImYKY' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/1VLhUcImYKY/mqdefault.jpg' alt='#java ya no es un lenguaje verboso gracias a la IA #javarecord #springboot #programacion' title='#java ya no es un lenguaje verboso gracias a la IA #javarecord #springboot #programacion' />
+</a>
+
+<a href='https://youtu.be/DFwL2-QEULI' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/DFwL2-QEULI/mqdefault.jpg' alt='Java ya no es verboso #java #springboot #javarecord #programacion' title='Java ya no es verboso #java #springboot #javarecord #programacion' />
+</a>
+
 <a href='https://youtu.be/jiZk69pPUwo' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/jiZk69pPUwo/mqdefault.jpg' alt='La IA elimina el principal argumento contra Java' title='La IA elimina el principal argumento contra Java' />
 </a>
@@ -28,18 +40,6 @@
 
 <a href='https://youtu.be/-RJXbj58nL8' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/-RJXbj58nL8/mqdefault.jpg' alt='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #14' title='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #14' />
-</a>
-
-<a href='https://youtu.be/' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi//mqdefault.jpg' alt='Tips Rápidos de Java ☕' title='Tips Rápidos de Java ☕' />
-</a>
-
-<a href='https://youtu.be/' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi//mqdefault.jpg' alt='Arquitectura de Software Sin Humo 🏗️' title='Arquitectura de Software Sin Humo 🏗️' />
-</a>
-
-<a href='https://youtu.be/frqZlVLCYB8' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/frqZlVLCYB8/mqdefault.jpg' alt='Java NO es para todo (pero aquí domina)' title='Java NO es para todo (pero aquí domina)' />
 </a>
 
 

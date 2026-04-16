@@ -18,6 +18,14 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/HRzPb28JcaA' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/HRzPb28JcaA/mqdefault.jpg' alt='¿Cuando no usar arquitectura hexagonal? #java #arquiteturadesoftware #springboot #programacion' title='¿Cuando no usar arquitectura hexagonal? #java #arquiteturadesoftware #springboot #programacion' />
+</a>
+
+<a href='https://youtu.be/EmpqGk0Tj-k' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/EmpqGk0Tj-k/mqdefault.jpg' alt='La clave para entender arquitectura hexagonal #java #springboot #arquiteturadesoftware #programacion' title='La clave para entender arquitectura hexagonal #java #springboot #arquiteturadesoftware #programacion' />
+</a>
+
 <a href='https://youtu.be/RU3RV1Z_-xk' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/RU3RV1Z_-xk/mqdefault.jpg' alt='¿Qué es Arquitectura Hexagonal? | Así la uso en Java y Spring Boot' title='¿Qué es Arquitectura Hexagonal? | Así la uso en Java y Spring Boot' />
 </a>
@@ -32,14 +40,6 @@
 
 <a href='https://youtu.be/DFwL2-QEULI' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/DFwL2-QEULI/mqdefault.jpg' alt='Java ya no es verboso #java #springboot #javarecord #programacion' title='Java ya no es verboso #java #springboot #javarecord #programacion' />
-</a>
-
-<a href='https://youtu.be/jiZk69pPUwo' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/jiZk69pPUwo/mqdefault.jpg' alt='La IA elimina el principal argumento contra Java' title='La IA elimina el principal argumento contra Java' />
-</a>
-
-<a href='https://youtu.be/FI1b_7_Do_Y' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/FI1b_7_Do_Y/mqdefault.jpg' alt='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #15' title='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #15' />
 </a>
 
 

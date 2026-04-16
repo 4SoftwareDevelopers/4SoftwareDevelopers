@@ -38,8 +38,8 @@
     <img width='30%' src='https://img.youtube.com/vi/FI1b_7_Do_Y/mqdefault.jpg' alt='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #15' title='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #15' />
 </a>
 
-<a href='https://youtu.be/-RJXbj58nL8' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/-RJXbj58nL8/mqdefault.jpg' alt='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #14' title='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #14' />
+<a href='https://youtu.be/' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi//mqdefault.jpg' alt='Tips Rápidos de Java ☕' title='Tips Rápidos de Java ☕' />
 </a>
 
 

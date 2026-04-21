@@ -18,6 +18,10 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/RGfvFo3Klko' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/RGfvFo3Klko/mqdefault.jpg' alt='Primer Trabajo Programa: ¿Por qué nadie contrata Juniors? (1/4)' title='Primer Trabajo Programa: ¿Por qué nadie contrata Juniors? (1/4)' />
+</a>
+
 <a href='https://youtu.be/HRzPb28JcaA' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/HRzPb28JcaA/mqdefault.jpg' alt='¿Cuando no usar arquitectura hexagonal? #java #arquiteturadesoftware #springboot #programacion' title='¿Cuando no usar arquitectura hexagonal? #java #arquiteturadesoftware #springboot #programacion' />
 </a>
@@ -36,10 +40,6 @@
 
 <a href='https://youtu.be/1VLhUcImYKY' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/1VLhUcImYKY/mqdefault.jpg' alt='#java ya no es un lenguaje verboso gracias a la IA #javarecord #springboot #programacion' title='#java ya no es un lenguaje verboso gracias a la IA #javarecord #springboot #programacion' />
-</a>
-
-<a href='https://youtu.be/DFwL2-QEULI' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/DFwL2-QEULI/mqdefault.jpg' alt='Java ya no es verboso #java #springboot #javarecord #programacion' title='Java ya no es verboso #java #springboot #javarecord #programacion' />
 </a>
 
 

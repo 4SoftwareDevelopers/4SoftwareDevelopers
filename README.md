@@ -19,7 +19,7 @@
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
 <a href='https://youtu.be/RGfvFo3Klko' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/RGfvFo3Klko/mqdefault.jpg' alt='Primer Trabajo Programa: ¿Por qué nadie contrata Juniors? (1/4)' title='Primer Trabajo Programa: ¿Por qué nadie contrata Juniors? (1/4)' />
+    <img width='30%' src='https://img.youtube.com/vi/RGfvFo3Klko/mqdefault.jpg' alt='Primer Trabajo Programador: ¿Por qué nadie contrata Juniors? (1/4)' title='Primer Trabajo Programador: ¿Por qué nadie contrata Juniors? (1/4)' />
 </a>
 
 <a href='https://youtu.be/HRzPb28JcaA' target='_blank'>

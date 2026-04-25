@@ -18,6 +18,14 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/H2y60AhXx2A' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/H2y60AhXx2A/mqdefault.jpg' alt='Nadie contrata juniors 😓' title='Nadie contrata juniors 😓' />
+</a>
+
+<a href='https://youtu.be/zWJ_OhFVpcQ' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/zWJ_OhFVpcQ/mqdefault.jpg' alt='Las empresas contratan IA antes que un junior o entry level' title='Las empresas contratan IA antes que un junior o entry level' />
+</a>
+
 <a href='https://youtu.be/RGfvFo3Klko' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/RGfvFo3Klko/mqdefault.jpg' alt='Primer Trabajo Programador: ¿Por qué nadie contrata Juniors? (1/4)' title='Primer Trabajo Programador: ¿Por qué nadie contrata Juniors? (1/4)' />
 </a>
@@ -32,14 +40,6 @@
 
 <a href='https://youtu.be/RU3RV1Z_-xk' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/RU3RV1Z_-xk/mqdefault.jpg' alt='¿Qué es Arquitectura Hexagonal? | Así la uso en Java y Spring Boot' title='¿Qué es Arquitectura Hexagonal? | Así la uso en Java y Spring Boot' />
-</a>
-
-<a href='https://youtu.be/4OEHpa8tM9I' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/4OEHpa8tM9I/mqdefault.jpg' alt='#java #springboot #javarecord #programacion #ia' title='#java #springboot #javarecord #programacion #ia' />
-</a>
-
-<a href='https://youtu.be/1VLhUcImYKY' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/1VLhUcImYKY/mqdefault.jpg' alt='#java ya no es un lenguaje verboso gracias a la IA #javarecord #springboot #programacion' title='#java ya no es un lenguaje verboso gracias a la IA #javarecord #springboot #programacion' />
 </a>
 
 

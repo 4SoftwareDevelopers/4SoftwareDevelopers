@@ -18,6 +18,10 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/Is5BT4ZS7L8' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/Is5BT4ZS7L8/mqdefault.jpg' alt='Primer Trabajo Programador: Lo que realmente esperan de ti (2/4)' title='Primer Trabajo Programador: Lo que realmente esperan de ti (2/4)' />
+</a>
+
 <a href='https://youtu.be/H2y60AhXx2A' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/H2y60AhXx2A/mqdefault.jpg' alt='Nadie contrata juniors 😓' title='Nadie contrata juniors 😓' />
 </a>
@@ -36,10 +40,6 @@
 
 <a href='https://youtu.be/EmpqGk0Tj-k' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/EmpqGk0Tj-k/mqdefault.jpg' alt='La clave para entender arquitectura hexagonal #java #springboot #arquiteturadesoftware #programacion' title='La clave para entender arquitectura hexagonal #java #springboot #arquiteturadesoftware #programacion' />
-</a>
-
-<a href='https://youtu.be/RU3RV1Z_-xk' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/RU3RV1Z_-xk/mqdefault.jpg' alt='¿Qué es Arquitectura Hexagonal? | Así la uso en Java y Spring Boot' title='¿Qué es Arquitectura Hexagonal? | Así la uso en Java y Spring Boot' />
 </a>
 
 

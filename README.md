@@ -19,7 +19,7 @@
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
 <a href='https://youtu.be/R_5rngUFoSg' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/R_5rngUFoSg/mqdefault.jpg' alt='¿Qué es la tokenización en LLMs? (y por qué te sale más cara en español)' title='¿Qué es la tokenización en LLMs? (y por qué te sale más cara en español)' />
+    <img width='30%' src='https://img.youtube.com/vi/R_5rngUFoSg/mqdefault.jpg' alt='¿Qué es un token en IA? Tokenización en LLMs explicada con ejemplos' title='¿Qué es un token en IA? Tokenización en LLMs explicada con ejemplos' />
 </a>
 
 <a href='https://youtu.be/Is5BT4ZS7L8' target='_blank'>

@@ -18,6 +18,10 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/R_5rngUFoSg' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/R_5rngUFoSg/mqdefault.jpg' alt='¿Qué es la tokenización en LLMs? (y por qué te sale más cara en español)' title='¿Qué es la tokenización en LLMs? (y por qué te sale más cara en español)' />
+</a>
+
 <a href='https://youtu.be/Is5BT4ZS7L8' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/Is5BT4ZS7L8/mqdefault.jpg' alt='Primer Trabajo Programador: Lo que piden 100 ofertas reales en 2026 (2/4)' title='Primer Trabajo Programador: Lo que piden 100 ofertas reales en 2026 (2/4)' />
 </a>
@@ -36,10 +40,6 @@
 
 <a href='https://youtu.be/HRzPb28JcaA' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/HRzPb28JcaA/mqdefault.jpg' alt='¿Cuando no usar arquitectura hexagonal? #java #arquiteturadesoftware #springboot #programacion' title='¿Cuando no usar arquitectura hexagonal? #java #arquiteturadesoftware #springboot #programacion' />
-</a>
-
-<a href='https://youtu.be/EmpqGk0Tj-k' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/EmpqGk0Tj-k/mqdefault.jpg' alt='La clave para entender arquitectura hexagonal #java #springboot #arquiteturadesoftware #programacion' title='La clave para entender arquitectura hexagonal #java #springboot #arquiteturadesoftware #programacion' />
 </a>
 
 

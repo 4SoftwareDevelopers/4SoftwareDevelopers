@@ -18,6 +18,14 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/3WTlOajHo1s' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/3WTlOajHo1s/mqdefault.jpg' alt='Utiliza bien la IA, si no las empresas te descartan #junior #programacion' title='Utiliza bien la IA, si no las empresas te descartan #junior #programacion' />
+</a>
+
+<a href='https://youtu.be/LaXH-PgtYlY' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/LaXH-PgtYlY/mqdefault.jpg' alt='Debes aprender sobre Tokenización #ai #tokens #gpt #claude' title='Debes aprender sobre Tokenización #ai #tokens #gpt #claude' />
+</a>
+
 <a href='https://youtu.be/R_5rngUFoSg' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/R_5rngUFoSg/mqdefault.jpg' alt='¿Qué es un token en IA? Tokenización en LLMs explicada con ejemplos' title='¿Qué es un token en IA? Tokenización en LLMs explicada con ejemplos' />
 </a>
@@ -32,14 +40,6 @@
 
 <a href='https://youtu.be/zWJ_OhFVpcQ' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/zWJ_OhFVpcQ/mqdefault.jpg' alt='Las empresas contratan IA antes que un junior o entry level' title='Las empresas contratan IA antes que un junior o entry level' />
-</a>
-
-<a href='https://youtu.be/RGfvFo3Klko' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/RGfvFo3Klko/mqdefault.jpg' alt='Primer Trabajo Programador: ¿Por qué nadie contrata Juniors? (1/4)' title='Primer Trabajo Programador: ¿Por qué nadie contrata Juniors? (1/4)' />
-</a>
-
-<a href='https://youtu.be/HRzPb28JcaA' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/HRzPb28JcaA/mqdefault.jpg' alt='¿Cuando no usar arquitectura hexagonal? #java #arquiteturadesoftware #springboot #programacion' title='¿Cuando no usar arquitectura hexagonal? #java #arquiteturadesoftware #springboot #programacion' />
 </a>
 
 

@@ -18,6 +18,10 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/btbI2WOvOHg' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/btbI2WOvOHg/mqdefault.jpg' alt='El error más común al buscar tu primer empleo como dev #programacion' title='El error más común al buscar tu primer empleo como dev #programacion' />
+</a>
+
 <a href='https://youtu.be/3WTlOajHo1s' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/3WTlOajHo1s/mqdefault.jpg' alt='Utiliza bien la IA, si no las empresas te descartan #junior #programacion' title='Utiliza bien la IA, si no las empresas te descartan #junior #programacion' />
 </a>
@@ -36,10 +40,6 @@
 
 <a href='https://youtu.be/H2y60AhXx2A' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/H2y60AhXx2A/mqdefault.jpg' alt='Nadie contrata juniors 😓' title='Nadie contrata juniors 😓' />
-</a>
-
-<a href='https://youtu.be/zWJ_OhFVpcQ' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/zWJ_OhFVpcQ/mqdefault.jpg' alt='Las empresas contratan IA antes que un junior o entry level' title='Las empresas contratan IA antes que un junior o entry level' />
 </a>
 
 

@@ -18,10 +18,6 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
-<a href='https://youtu.be/qsaHOWhgJ0c' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/qsaHOWhgJ0c/mqdefault.jpg' alt='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #17' title='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #17' />
-</a>
-
 <a href='https://youtu.be/8FVDEblqWzY' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/8FVDEblqWzY/mqdefault.jpg' alt='Primer Trabajo Programador: el 80% de rechazos son por esto (3/4)' title='Primer Trabajo Programador: el 80% de rechazos son por esto (3/4)' />
 </a>
@@ -40,6 +36,10 @@
 
 <a href='https://youtu.be/btbI2WOvOHg' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/btbI2WOvOHg/mqdefault.jpg' alt='El error más común al buscar tu primer empleo como dev #programacion' title='El error más común al buscar tu primer empleo como dev #programacion' />
+</a>
+
+<a href='https://youtu.be/3WTlOajHo1s' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/3WTlOajHo1s/mqdefault.jpg' alt='Utiliza bien la IA, si no las empresas te descartan #junior #programacion' title='Utiliza bien la IA, si no las empresas te descartan #junior #programacion' />
 </a>
 
 

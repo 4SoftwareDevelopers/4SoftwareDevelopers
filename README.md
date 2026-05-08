@@ -19,7 +19,7 @@
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
 <a href='https://youtu.be/8FVDEblqWzY' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/8FVDEblqWzY/mqdefault.jpg' alt='Primer Trabajo Programador: el 80% de rechazos son por esto (3/4)' title='Primer Trabajo Programador: el 80% de rechazos son por esto (3/4)' />
+    <img width='30%' src='https://img.youtube.com/vi/8FVDEblqWzY/mqdefault.jpg' alt='Primer Trabajo Programador: ¿Por qué te rechazan en entrevistas técnicas? (3/4)' title='Primer Trabajo Programador: ¿Por qué te rechazan en entrevistas técnicas? (3/4)' />
 </a>
 
 <a href='https://youtu.be/xFTNUwXN3vU' target='_blank'>

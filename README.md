@@ -34,12 +34,12 @@
     <img width='30%' src='https://img.youtube.com/vi/Li1Wbj3nSb4/mqdefault.jpg' alt='Los datos hablan por sí solos' title='Los datos hablan por sí solos' />
 </a>
 
-<a href='https://youtu.be/btbI2WOvOHg' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/btbI2WOvOHg/mqdefault.jpg' alt='El error más común al buscar tu primer empleo como dev #programacion' title='El error más común al buscar tu primer empleo como dev #programacion' />
-</a>
-
 <a href='https://youtu.be/3WTlOajHo1s' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/3WTlOajHo1s/mqdefault.jpg' alt='Utiliza bien la IA, si no las empresas te descartan #junior #programacion' title='Utiliza bien la IA, si no las empresas te descartan #junior #programacion' />
+</a>
+
+<a href='https://youtu.be/LaXH-PgtYlY' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/LaXH-PgtYlY/mqdefault.jpg' alt='Debes aprender sobre Tokenización #ai #tokens #gpt #claude' title='Debes aprender sobre Tokenización #ai #tokens #gpt #claude' />
 </a>
 
 

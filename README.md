@@ -18,6 +18,10 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/vdYWtIJVk9E' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/vdYWtIJVk9E/mqdefault.jpg' alt='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #18' title='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #18' />
+</a>
+
 <a href='https://youtu.be/nvRQxgR1I14' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/nvRQxgR1I14/mqdefault.jpg' alt='Primer Trabajo Programador: los 5 movimientos para conseguirlo (4/4)' title='Primer Trabajo Programador: los 5 movimientos para conseguirlo (4/4)' />
 </a>
@@ -36,10 +40,6 @@
 
 <a href='https://youtu.be/Li1Wbj3nSb4' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/Li1Wbj3nSb4/mqdefault.jpg' alt='Los datos hablan por sí solos' title='Los datos hablan por sí solos' />
-</a>
-
-<a href='https://youtu.be/btbI2WOvOHg' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/btbI2WOvOHg/mqdefault.jpg' alt='El error más común al buscar tu primer empleo como dev #programacion' title='El error más común al buscar tu primer empleo como dev #programacion' />
 </a>
 
 

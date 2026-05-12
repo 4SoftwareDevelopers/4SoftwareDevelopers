@@ -18,6 +18,10 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/nvRQxgR1I14' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/nvRQxgR1I14/mqdefault.jpg' alt='Primer Trabajo Programador: los 5 movimientos para conseguirlo (4/4)' title='Primer Trabajo Programador: los 5 movimientos para conseguirlo (4/4)' />
+</a>
+
 <a href='https://youtu.be/8FVDEblqWzY' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/8FVDEblqWzY/mqdefault.jpg' alt='Primer Trabajo Programador: ¿Por qué te rechazan en entrevistas técnicas? (3/4)' title='Primer Trabajo Programador: ¿Por qué te rechazan en entrevistas técnicas? (3/4)' />
 </a>
@@ -36,10 +40,6 @@
 
 <a href='https://youtu.be/btbI2WOvOHg' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/btbI2WOvOHg/mqdefault.jpg' alt='El error más común al buscar tu primer empleo como dev #programacion' title='El error más común al buscar tu primer empleo como dev #programacion' />
-</a>
-
-<a href='https://youtu.be/3WTlOajHo1s' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/3WTlOajHo1s/mqdefault.jpg' alt='Utiliza bien la IA, si no las empresas te descartan #junior #programacion' title='Utiliza bien la IA, si no las empresas te descartan #junior #programacion' />
 </a>
 
 

@@ -19,7 +19,7 @@
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
 <a href='https://youtu.be/nvRQxgR1I14' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/nvRQxgR1I14/mqdefault.jpg' alt='Primer Trabajo Programador: los 5 movimientos para conseguirlo (4/4)' title='Primer Trabajo Programador: los 5 movimientos para conseguirlo (4/4)' />
+    <img width='30%' src='https://img.youtube.com/vi/nvRQxgR1I14/mqdefault.jpg' alt='Primer Trabajo Programador: Los 5 movimientos para conseguirlo (4/4)' title='Primer Trabajo Programador: Los 5 movimientos para conseguirlo (4/4)' />
 </a>
 
 <a href='https://youtu.be/8FVDEblqWzY' target='_blank'>

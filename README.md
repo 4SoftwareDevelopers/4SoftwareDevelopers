@@ -18,14 +18,6 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
-<a href='https://youtu.be/sSLyygtKLbw' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/sSLyygtKLbw/mqdefault.jpg' alt='Tú primer trabajo cómo programador puede estar más cerca de lo que crees #programacion #juniordev' title='Tú primer trabajo cómo programador puede estar más cerca de lo que crees #programacion #juniordev' />
-</a>
-
-<a href='https://youtu.be/MKJ6ISjO9Ss' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/MKJ6ISjO9Ss/mqdefault.jpg' alt='Junior 2026 = Mid level 2022 #juniordeveloper #programacion' title='Junior 2026 = Mid level 2022 #juniordeveloper #programacion' />
-</a>
-
 <a href='https://youtu.be/nvRQxgR1I14' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/nvRQxgR1I14/mqdefault.jpg' alt='Primer Trabajo Programador: Los 5 movimientos para conseguirlo (4/4)' title='Primer Trabajo Programador: Los 5 movimientos para conseguirlo (4/4)' />
 </a>
@@ -40,6 +32,14 @@
 
 <a href='https://youtu.be/iyG2yWSwoRY' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/iyG2yWSwoRY/mqdefault.jpg' alt='Tokenización explicada' title='Tokenización explicada' />
+</a>
+
+<a href='https://youtu.be/Li1Wbj3nSb4' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/Li1Wbj3nSb4/mqdefault.jpg' alt='Los datos hablan por sí solos' title='Los datos hablan por sí solos' />
+</a>
+
+<a href='https://youtu.be/btbI2WOvOHg' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/btbI2WOvOHg/mqdefault.jpg' alt='El error más común al buscar tu primer empleo como dev #programacion' title='El error más común al buscar tu primer empleo como dev #programacion' />
 </a>
 
 

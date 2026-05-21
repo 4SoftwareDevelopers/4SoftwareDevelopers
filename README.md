@@ -18,16 +18,20 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/7zWjEn7-afs' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/7zWjEn7-afs/mqdefault.jpg' alt='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #21' title='App web audios para enviar mensajes al stream | Spring Boot + Java + Hexagonal | Live Coding #21' />
+</a>
+
 <a href='https://youtu.be/0PUlW6ElQJA' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/0PUlW6ElQJA/mqdefault.jpg' alt='Java Performance 2026: 80x con GraalVM (1/4)' title='Java Performance 2026: 80x con GraalVM (1/4)' />
 </a>
 
 <a href='https://youtu.be/nvRQxgR1I14' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/nvRQxgR1I14/mqdefault.jpg' alt='Primer Trabajo Programador: Los 5 movimientos para conseguirlo (4/4)' title='Primer Trabajo Programador: Los 5 movimientos para conseguirlo (4/4)' />
+    <img width='30%' src='https://img.youtube.com/vi/nvRQxgR1I14/mqdefault.jpg' alt='Primer Trabajo Programador: Los 5 movimientos para conseguirlo' title='Primer Trabajo Programador: Los 5 movimientos para conseguirlo' />
 </a>
 
 <a href='https://youtu.be/8FVDEblqWzY' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/8FVDEblqWzY/mqdefault.jpg' alt='Primer Trabajo Programador: ¿Por qué te rechazan en entrevistas técnicas? (3/4)' title='Primer Trabajo Programador: ¿Por qué te rechazan en entrevistas técnicas? (3/4)' />
+    <img width='30%' src='https://img.youtube.com/vi/8FVDEblqWzY/mqdefault.jpg' alt='Primer Trabajo Programador: ¿Por qué te rechazan en entrevistas técnicas?' title='Primer Trabajo Programador: ¿Por qué te rechazan en entrevistas técnicas?' />
 </a>
 
 <a href='https://youtu.be/xFTNUwXN3vU' target='_blank'>
@@ -36,10 +40,6 @@
 
 <a href='https://youtu.be/iyG2yWSwoRY' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/iyG2yWSwoRY/mqdefault.jpg' alt='Tokenización explicada' title='Tokenización explicada' />
-</a>
-
-<a href='https://youtu.be/Li1Wbj3nSb4' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/Li1Wbj3nSb4/mqdefault.jpg' alt='Los datos hablan por sí solos' title='Los datos hablan por sí solos' />
 </a>
 
 

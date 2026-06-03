@@ -38,8 +38,8 @@
     <img width='30%' src='https://img.youtube.com/vi/8FVDEblqWzY/mqdefault.jpg' alt='Primer Trabajo Programador: ¿Por qué te rechazan en entrevistas técnicas?' title='Primer Trabajo Programador: ¿Por qué te rechazan en entrevistas técnicas?' />
 </a>
 
-<a href='https://youtu.be/xFTNUwXN3vU' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/xFTNUwXN3vU/mqdefault.jpg' alt='Todos hablan de esto pero nadie lo explica' title='Todos hablan de esto pero nadie lo explica' />
+<a href='https://youtu.be/Li1Wbj3nSb4' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/Li1Wbj3nSb4/mqdefault.jpg' alt='Los datos hablan por sí solos' title='Los datos hablan por sí solos' />
 </a>
 
 

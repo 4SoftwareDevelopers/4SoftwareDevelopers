@@ -38,6 +38,10 @@
     <img width='30%' src='https://img.youtube.com/vi/8FVDEblqWzY/mqdefault.jpg' alt='Primer Trabajo Programador: ¿Por qué te rechazan en entrevistas técnicas?' title='Primer Trabajo Programador: ¿Por qué te rechazan en entrevistas técnicas?' />
 </a>
 
+<a href='https://youtu.be/xFTNUwXN3vU' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/xFTNUwXN3vU/mqdefault.jpg' alt='Todos hablan de esto pero nadie lo explica' title='Todos hablan de esto pero nadie lo explica' />
+</a>
+
 
 ### 👀 Mi perfil en Oracle ACE [detalles aquí](https://ace.oracle.com/ords/ace/profile/jordy4sd)
 

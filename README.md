@@ -18,6 +18,10 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/eCloFxqF2tY' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/eCloFxqF2tY/mqdefault.jpg' alt='Java Performance 2026: Java vs Node' title='Java Performance 2026: Java vs Node' />
+</a>
+
 <a href='https://youtu.be/RzSTWdHq-OE' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/RzSTWdHq-OE/mqdefault.jpg' alt='Java Performance 2026: Java vs Go' title='Java Performance 2026: Java vs Go' />
 </a>
@@ -36,10 +40,6 @@
 
 <a href='https://youtu.be/nvRQxgR1I14' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/nvRQxgR1I14/mqdefault.jpg' alt='Primer Trabajo Programador: Los 5 movimientos para conseguirlo' title='Primer Trabajo Programador: Los 5 movimientos para conseguirlo' />
-</a>
-
-<a href='https://youtu.be/8FVDEblqWzY' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/8FVDEblqWzY/mqdefault.jpg' alt='Primer Trabajo Programador: ¿Por qué te rechazan en entrevistas técnicas?' title='Primer Trabajo Programador: ¿Por qué te rechazan en entrevistas técnicas?' />
 </a>
 
 

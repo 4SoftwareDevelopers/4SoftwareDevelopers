@@ -38,8 +38,8 @@
     <img width='30%' src='https://img.youtube.com/vi/4OEHpa8tM9I/mqdefault.jpg' alt='#java #springboot #javarecord #programacion #ia' title='#java #springboot #javarecord #programacion #ia' />
 </a>
 
-<a href='https://youtu.be/' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi//mqdefault.jpg' alt='Tips Rápidos de Java ☕' title='Tips Rápidos de Java ☕' />
+<a href='https://youtu.be/frqZlVLCYB8' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/frqZlVLCYB8/mqdefault.jpg' alt='Java NO es para todo (pero aquí domina)' title='Java NO es para todo (pero aquí domina)' />
 </a>
 
 

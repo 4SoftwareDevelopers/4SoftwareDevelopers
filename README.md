@@ -22,24 +22,24 @@
     <img width='30%' src='https://img.youtube.com/vi/eCloFxqF2tY/mqdefault.jpg' alt='Java Performance 2026: Java vs Node' title='Java Performance 2026: Java vs Node' />
 </a>
 
+<a href='https://youtu.be/RzSTWdHq-OE' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/RzSTWdHq-OE/mqdefault.jpg' alt='Java Performance 2026: Java vs Go' title='Java Performance 2026: Java vs Go' />
+</a>
+
+<a href='https://youtu.be/1MtetS6g69I' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/1MtetS6g69I/mqdefault.jpg' alt='Java Performance 2026: La evolución que te perdiste' title='Java Performance 2026: La evolución que te perdiste' />
+</a>
+
+<a href='https://youtu.be/zF3DTbMthZw' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/zF3DTbMthZw/mqdefault.jpg' alt='Java Performance 2026: Acelera Java en 2 comandos' title='Java Performance 2026: Acelera Java en 2 comandos' />
+</a>
+
 <a href='https://youtu.be/0PUlW6ElQJA' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/0PUlW6ElQJA/mqdefault.jpg' alt='Java Performance 2026: 80x con GraalVM (1/4)' title='Java Performance 2026: 80x con GraalVM (1/4)' />
 </a>
 
 <a href='https://youtu.be/nvRQxgR1I14' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/nvRQxgR1I14/mqdefault.jpg' alt='Primer Trabajo Programador: Los 5 movimientos para conseguirlo' title='Primer Trabajo Programador: Los 5 movimientos para conseguirlo' />
-</a>
-
-<a href='https://youtu.be/xFTNUwXN3vU' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/xFTNUwXN3vU/mqdefault.jpg' alt='Todos hablan de esto pero nadie lo explica' title='Todos hablan de esto pero nadie lo explica' />
-</a>
-
-<a href='https://youtu.be/iyG2yWSwoRY' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/iyG2yWSwoRY/mqdefault.jpg' alt='Tokenización explicada' title='Tokenización explicada' />
-</a>
-
-<a href='https://youtu.be/Li1Wbj3nSb4' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/Li1Wbj3nSb4/mqdefault.jpg' alt='Los datos hablan por sí solos' title='Los datos hablan por sí solos' />
 </a>
 
 

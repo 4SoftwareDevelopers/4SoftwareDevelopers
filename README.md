@@ -26,20 +26,20 @@
     <img width='30%' src='https://img.youtube.com/vi/eCloFxqF2tY/mqdefault.jpg' alt='Java Performance 2026: Java vs Node' title='Java Performance 2026: Java vs Node' />
 </a>
 
+<a href='https://youtu.be/RzSTWdHq-OE' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/RzSTWdHq-OE/mqdefault.jpg' alt='Java Performance 2026: Java vs Go' title='Java Performance 2026: Java vs Go' />
+</a>
+
+<a href='https://youtu.be/1MtetS6g69I' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/1MtetS6g69I/mqdefault.jpg' alt='Java Performance 2026: La evolución que te perdiste' title='Java Performance 2026: La evolución que te perdiste' />
+</a>
+
+<a href='https://youtu.be/zF3DTbMthZw' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/zF3DTbMthZw/mqdefault.jpg' alt='Java Performance 2026: Acelera Java en 2 comandos' title='Java Performance 2026: Acelera Java en 2 comandos' />
+</a>
+
 <a href='https://youtu.be/0PUlW6ElQJA' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/0PUlW6ElQJA/mqdefault.jpg' alt='Java Performance 2026: 80x con GraalVM (1/4)' title='Java Performance 2026: 80x con GraalVM (1/4)' />
-</a>
-
-<a href='https://youtu.be/Li1Wbj3nSb4' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/Li1Wbj3nSb4/mqdefault.jpg' alt='Los datos hablan por sí solos' title='Los datos hablan por sí solos' />
-</a>
-
-<a href='https://youtu.be/RU3RV1Z_-xk' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/RU3RV1Z_-xk/mqdefault.jpg' alt='¿Qué es Arquitectura Hexagonal? | Así la uso en Java y Spring Boot' title='¿Qué es Arquitectura Hexagonal? | Así la uso en Java y Spring Boot' />
-</a>
-
-<a href='https://youtu.be/4OEHpa8tM9I' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/4OEHpa8tM9I/mqdefault.jpg' alt='#java #springboot #javarecord #programacion #ia' title='#java #springboot #javarecord #programacion #ia' />
 </a>
 
 

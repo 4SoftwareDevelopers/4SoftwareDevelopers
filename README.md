@@ -18,6 +18,10 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/qNF1sllBeCI' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/qNF1sllBeCI/mqdefault.jpg' alt='Java Performance 2026: Java vs C# | Análisis honesto' title='Java Performance 2026: Java vs C# | Análisis honesto' />
+</a>
+
 <a href='https://youtu.be/v1FOSMjR3zw' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/v1FOSMjR3zw/mqdefault.jpg' alt='Java Performance 2026: Java vs Python | Análisis honesto' title='Java Performance 2026: Java vs Python | Análisis honesto' />
 </a>
@@ -36,10 +40,6 @@
 
 <a href='https://youtu.be/zF3DTbMthZw' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/zF3DTbMthZw/mqdefault.jpg' alt='Java Performance 2026: Acelera Java en 2 comandos' title='Java Performance 2026: Acelera Java en 2 comandos' />
-</a>
-
-<a href='https://youtu.be/0PUlW6ElQJA' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/0PUlW6ElQJA/mqdefault.jpg' alt='Java Performance 2026: 80x con GraalVM (1/4)' title='Java Performance 2026: 80x con GraalVM (1/4)' />
 </a>
 
 

@@ -18,6 +18,10 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/Wm_K7FWloYs' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/Wm_K7FWloYs/mqdefault.jpg' alt='No elegiste Java por el deploy pero ahora es mucho más fácil' title='No elegiste Java por el deploy pero ahora es mucho más fácil' />
+</a>
+
 <a href='https://youtu.be/' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi//mqdefault.jpg' alt='Videos solo para miembros' title='Videos solo para miembros' />
 </a>
@@ -36,10 +40,6 @@
 
 <a href='https://youtu.be/RzSTWdHq-OE' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/RzSTWdHq-OE/mqdefault.jpg' alt='Java Performance 2026: Java vs Go' title='Java Performance 2026: Java vs Go' />
-</a>
-
-<a href='https://youtu.be/1MtetS6g69I' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/1MtetS6g69I/mqdefault.jpg' alt='Java Performance 2026: La evolución que te perdiste' title='Java Performance 2026: La evolución que te perdiste' />
 </a>
 
 

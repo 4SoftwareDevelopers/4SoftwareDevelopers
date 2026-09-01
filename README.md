@@ -18,6 +18,10 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/YZ1iVIyQYMs' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/YZ1iVIyQYMs/mqdefault.jpg' alt='Estas son las claves de TODO lo que he aprendido' title='Estas son las claves de TODO lo que he aprendido' />
+</a>
+
 <a href='https://youtu.be/' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi//mqdefault.jpg' alt='Videos solo para miembros' title='Videos solo para miembros' />
 </a>
@@ -36,10 +40,6 @@
 
 <a href='https://youtu.be/RU3RV1Z_-xk' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/RU3RV1Z_-xk/mqdefault.jpg' alt='¿Qué es Arquitectura Hexagonal? | Así la uso en Java y Spring Boot' title='¿Qué es Arquitectura Hexagonal? | Así la uso en Java y Spring Boot' />
-</a>
-
-<a href='https://youtu.be/4OEHpa8tM9I' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/4OEHpa8tM9I/mqdefault.jpg' alt='#java #springboot #javarecord #programacion #ia' title='#java #springboot #javarecord #programacion #ia' />
 </a>
 
 

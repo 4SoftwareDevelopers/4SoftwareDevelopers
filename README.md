@@ -18,6 +18,10 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/nyyySRDKR7M' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/nyyySRDKR7M/mqdefault.jpg' alt='GraalVM: JavaScript, Python y Java en el mismo proceso' title='GraalVM: JavaScript, Python y Java en el mismo proceso' />
+</a>
+
 <a href='https://youtu.be/UxZKm-CoOmg' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/UxZKm-CoOmg/mqdefault.jpg' alt='Piden experiencia en IA que nadie puede tener' title='Piden experiencia en IA que nadie puede tener' />
 </a>
@@ -36,10 +40,6 @@
 
 <a href='https://youtu.be/Li1Wbj3nSb4' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/Li1Wbj3nSb4/mqdefault.jpg' alt='Los datos hablan por sí solos' title='Los datos hablan por sí solos' />
-</a>
-
-<a href='https://youtu.be/RU3RV1Z_-xk' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/RU3RV1Z_-xk/mqdefault.jpg' alt='¿Qué es Arquitectura Hexagonal? | Así la uso en Java y Spring Boot' title='¿Qué es Arquitectura Hexagonal? | Así la uso en Java y Spring Boot' />
 </a>
 
 

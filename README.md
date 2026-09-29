@@ -18,12 +18,12 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
-<a href='https://youtu.be/NHEUXjtrydg' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/NHEUXjtrydg/mqdefault.jpg' alt='IA, Java, ¿Rust? | Novedades | Sorteo Licencias' title='IA, Java, ¿Rust? | Novedades | Sorteo Licencias' />
+<a href='https://youtu.be/WdE7tlAC_4c' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/WdE7tlAC_4c/mqdefault.jpg' alt='Java tardó 27 años en borrar este método' title='Java tardó 27 años en borrar este método' />
 </a>
 
-<a href='https://youtu.be/nyyySRDKR7M' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/nyyySRDKR7M/mqdefault.jpg' alt='GraalVM: JavaScript, Python y Java en el mismo proceso' title='GraalVM: JavaScript, Python y Java en el mismo proceso' />
+<a href='https://youtu.be/NHEUXjtrydg' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/NHEUXjtrydg/mqdefault.jpg' alt='IA, Java, ¿Rust? | Novedades | Sorteo Licencias' title='IA, Java, ¿Rust? | Novedades | Sorteo Licencias' />
 </a>
 
 <a href='https://youtu.be/UxZKm-CoOmg' target='_blank'>

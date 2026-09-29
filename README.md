@@ -18,6 +18,10 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/NHEUXjtrydg' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/NHEUXjtrydg/mqdefault.jpg' alt='IA, Java, ¿Rust? | Novedades | Sorteo Licencias' title='IA, Java, ¿Rust? | Novedades | Sorteo Licencias' />
+</a>
+
 <a href='https://youtu.be/nyyySRDKR7M' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/nyyySRDKR7M/mqdefault.jpg' alt='GraalVM: JavaScript, Python y Java en el mismo proceso' title='GraalVM: JavaScript, Python y Java en el mismo proceso' />
 </a>
@@ -36,10 +40,6 @@
 
 <a href='https://youtu.be/0PUlW6ElQJA' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/0PUlW6ElQJA/mqdefault.jpg' alt='Java Performance 2026: 80x con GraalVM (1/4)' title='Java Performance 2026: 80x con GraalVM (1/4)' />
-</a>
-
-<a href='https://youtu.be/Li1Wbj3nSb4' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/Li1Wbj3nSb4/mqdefault.jpg' alt='Los datos hablan por sí solos' title='Los datos hablan por sí solos' />
 </a>
 
 

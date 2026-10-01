@@ -18,6 +18,10 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/ceoYCKMejIk' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/ceoYCKMejIk/mqdefault.jpg' alt='Opiniones?? #programming' title='Opiniones?? #programming' />
+</a>
+
 <a href='https://youtu.be/WdE7tlAC_4c' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/WdE7tlAC_4c/mqdefault.jpg' alt='Java tardó 27 años en borrar este método' title='Java tardó 27 años en borrar este método' />
 </a>
@@ -36,10 +40,6 @@
 
 <a href='https://youtu.be/eCloFxqF2tY' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/eCloFxqF2tY/mqdefault.jpg' alt='Java Performance 2026: Java vs Node' title='Java Performance 2026: Java vs Node' />
-</a>
-
-<a href='https://youtu.be/0PUlW6ElQJA' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/0PUlW6ElQJA/mqdefault.jpg' alt='Java Performance 2026: 80x con GraalVM (1/4)' title='Java Performance 2026: 80x con GraalVM (1/4)' />
 </a>
 
 

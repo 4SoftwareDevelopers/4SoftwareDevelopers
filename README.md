@@ -34,12 +34,12 @@
     <img width='30%' src='https://img.youtube.com/vi//mqdefault.jpg' alt='Videos solo para miembros' title='Videos solo para miembros' />
 </a>
 
-<a href='https://youtu.be/eCloFxqF2tY' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/eCloFxqF2tY/mqdefault.jpg' alt='Java Performance 2026: Java vs Node' title='Java Performance 2026: Java vs Node' />
+<a href='https://youtu.be/qNF1sllBeCI' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/qNF1sllBeCI/mqdefault.jpg' alt='Java Performance 2026: Java vs C# | Análisis honesto' title='Java Performance 2026: Java vs C# | Análisis honesto' />
 </a>
 
-<a href='https://youtu.be/0PUlW6ElQJA' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/0PUlW6ElQJA/mqdefault.jpg' alt='Java Performance 2026: 80x con GraalVM (1/4)' title='Java Performance 2026: 80x con GraalVM (1/4)' />
+<a href='https://youtu.be/v1FOSMjR3zw' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/v1FOSMjR3zw/mqdefault.jpg' alt='Java Performance 2026: Java vs Python | Análisis honesto' title='Java Performance 2026: Java vs Python | Análisis honesto' />
 </a>
 
 

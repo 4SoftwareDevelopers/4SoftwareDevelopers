@@ -18,6 +18,14 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/WdE7tlAC_4c' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/WdE7tlAC_4c/mqdefault.jpg' alt='Java tardó 27 años en borrar este método' title='Java tardó 27 años en borrar este método' />
+</a>
+
+<a href='https://youtu.be/nyyySRDKR7M' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/nyyySRDKR7M/mqdefault.jpg' alt='GraalVM: JavaScript, Python y Java en el mismo proceso' title='GraalVM: JavaScript, Python y Java en el mismo proceso' />
+</a>
+
 <a href='https://youtu.be/UxZKm-CoOmg' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/UxZKm-CoOmg/mqdefault.jpg' alt='Piden experiencia en IA que nadie puede tener' title='Piden experiencia en IA que nadie puede tener' />
 </a>
@@ -32,14 +40,6 @@
 
 <a href='https://youtu.be/v1FOSMjR3zw' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/v1FOSMjR3zw/mqdefault.jpg' alt='Java Performance 2026: Java vs Python | Análisis honesto' title='Java Performance 2026: Java vs Python | Análisis honesto' />
-</a>
-
-<a href='https://youtu.be/eCloFxqF2tY' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/eCloFxqF2tY/mqdefault.jpg' alt='Java Performance 2026: Java vs Node' title='Java Performance 2026: Java vs Node' />
-</a>
-
-<a href='https://youtu.be/0PUlW6ElQJA' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/0PUlW6ElQJA/mqdefault.jpg' alt='Java Performance 2026: 80x con GraalVM (1/4)' title='Java Performance 2026: 80x con GraalVM (1/4)' />
 </a>
 
 

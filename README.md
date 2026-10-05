@@ -18,6 +18,10 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/rMDVXmJ0bcs' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/rMDVXmJ0bcs/mqdefault.jpg' alt='90% de ahorro en #aws' title='90% de ahorro en #aws' />
+</a>
+
 <a href='https://youtu.be/iXlVlQXcTKY' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/iXlVlQXcTKY/mqdefault.jpg' alt='Google Cloud ya tiene SDK oficial para Swift' title='Google Cloud ya tiene SDK oficial para Swift' />
 </a>
@@ -32,10 +36,6 @@
 
 <a href='https://youtu.be/' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi//mqdefault.jpg' alt='Videos solo para miembros' title='Videos solo para miembros' />
-</a>
-
-<a href='https://youtu.be/qNF1sllBeCI' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/qNF1sllBeCI/mqdefault.jpg' alt='Java Performance 2026: Java vs C# | Análisis honesto' title='Java Performance 2026: Java vs C# | Análisis honesto' />
 </a>
 
 <a href='https://youtu.be/eCloFxqF2tY' target='_blank'>

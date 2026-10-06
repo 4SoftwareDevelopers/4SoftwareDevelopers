@@ -18,6 +18,10 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/BsSDEUGxTTM' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/BsSDEUGxTTM/mqdefault.jpg' alt='¿Qué recolector de basura usa tu app Java? (y cuál usar)' title='¿Qué recolector de basura usa tu app Java? (y cuál usar)' />
+</a>
+
 <a href='https://youtu.be/rMDVXmJ0bcs' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/rMDVXmJ0bcs/mqdefault.jpg' alt='90% de ahorro en #aws' title='90% de ahorro en #aws' />
 </a>
@@ -36,10 +40,6 @@
 
 <a href='https://youtu.be/UxZKm-CoOmg' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/UxZKm-CoOmg/mqdefault.jpg' alt='Piden experiencia en IA que nadie puede tener' title='Piden experiencia en IA que nadie puede tener' />
-</a>
-
-<a href='https://youtu.be/' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi//mqdefault.jpg' alt='Videos solo para miembros' title='Videos solo para miembros' />
 </a>
 
 

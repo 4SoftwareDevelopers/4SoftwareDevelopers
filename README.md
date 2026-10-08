@@ -18,6 +18,10 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/tWOzAY3UMRg' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/tWOzAY3UMRg/mqdefault.jpg' alt='Imagínate perder 460 millones de dólares después de un despliegue #programming' title='Imagínate perder 460 millones de dólares después de un despliegue #programming' />
+</a>
+
 <a href='https://youtu.be/BsSDEUGxTTM' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/BsSDEUGxTTM/mqdefault.jpg' alt='¿Qué recolector de basura usa tu app Java? (y cuál usar)' title='¿Qué recolector de basura usa tu app Java? (y cuál usar)' />
 </a>
@@ -36,10 +40,6 @@
 
 <a href='https://youtu.be/nyyySRDKR7M' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/nyyySRDKR7M/mqdefault.jpg' alt='GraalVM: JavaScript, Python y Java en el mismo proceso' title='GraalVM: JavaScript, Python y Java en el mismo proceso' />
-</a>
-
-<a href='https://youtu.be/UxZKm-CoOmg' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/UxZKm-CoOmg/mqdefault.jpg' alt='Piden experiencia en IA que nadie puede tener' title='Piden experiencia en IA que nadie puede tener' />
 </a>
 
 

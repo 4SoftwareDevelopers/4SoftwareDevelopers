@@ -38,8 +38,8 @@
     <img width='30%' src='https://img.youtube.com/vi/WdE7tlAC_4c/mqdefault.jpg' alt='Java tardó 27 años en borrar este método' title='Java tardó 27 años en borrar este método' />
 </a>
 
-<a href='https://youtu.be/nyyySRDKR7M' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/nyyySRDKR7M/mqdefault.jpg' alt='GraalVM: JavaScript, Python y Java en el mismo proceso' title='GraalVM: JavaScript, Python y Java en el mismo proceso' />
+<a href='https://youtu.be/UxZKm-CoOmg' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/UxZKm-CoOmg/mqdefault.jpg' alt='Piden experiencia en IA que nadie puede tener' title='Piden experiencia en IA que nadie puede tener' />
 </a>
 
 

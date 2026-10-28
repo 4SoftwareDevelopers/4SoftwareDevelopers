@@ -34,12 +34,12 @@
     <img width='30%' src='https://img.youtube.com/vi/iXlVlQXcTKY/mqdefault.jpg' alt='Google Cloud ya tiene SDK oficial para Swift' title='Google Cloud ya tiene SDK oficial para Swift' />
 </a>
 
-<a href='https://youtu.be/WdE7tlAC_4c' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/WdE7tlAC_4c/mqdefault.jpg' alt='Java tardó 27 años en borrar este método' title='Java tardó 27 años en borrar este método' />
-</a>
-
 <a href='https://youtu.be/UxZKm-CoOmg' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/UxZKm-CoOmg/mqdefault.jpg' alt='Piden experiencia en IA que nadie puede tener' title='Piden experiencia en IA que nadie puede tener' />
+</a>
+
+<a href='https://youtu.be/Wm_K7FWloYs' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/Wm_K7FWloYs/mqdefault.jpg' alt='No elegiste Java por el deploy pero ahora es mucho más fácil' title='No elegiste Java por el deploy pero ahora es mucho más fácil' />
 </a>
 
 

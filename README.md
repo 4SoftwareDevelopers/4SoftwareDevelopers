@@ -18,6 +18,10 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/MlxF1DujNeU' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/MlxF1DujNeU/mqdefault.jpg' alt='Las vulnerabilidades de Java se dispararon en 2026' title='Las vulnerabilidades de Java se dispararon en 2026' />
+</a>
+
 <a href='https://youtu.be/tWOzAY3UMRg' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/tWOzAY3UMRg/mqdefault.jpg' alt='Imagínate perder 460 millones de dólares después de un despliegue #programming' title='Imagínate perder 460 millones de dólares después de un despliegue #programming' />
 </a>
@@ -36,10 +40,6 @@
 
 <a href='https://youtu.be/UxZKm-CoOmg' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/UxZKm-CoOmg/mqdefault.jpg' alt='Piden experiencia en IA que nadie puede tener' title='Piden experiencia en IA que nadie puede tener' />
-</a>
-
-<a href='https://youtu.be/Wm_K7FWloYs' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/Wm_K7FWloYs/mqdefault.jpg' alt='No elegiste Java por el deploy pero ahora es mucho más fácil' title='No elegiste Java por el deploy pero ahora es mucho más fácil' />
 </a>
 
 

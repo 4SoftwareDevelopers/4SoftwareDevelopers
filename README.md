@@ -18,6 +18,10 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/5enWq0AEdAg' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/5enWq0AEdAg/mqdefault.jpg' alt='Java y la JVM REYES del Big Data' title='Java y la JVM REYES del Big Data' />
+</a>
+
 <a href='https://youtu.be/MlxF1DujNeU' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/MlxF1DujNeU/mqdefault.jpg' alt='Las vulnerabilidades de Java se dispararon en 2026' title='Las vulnerabilidades de Java se dispararon en 2026' />
 </a>
@@ -36,10 +40,6 @@
 
 <a href='https://youtu.be/iXlVlQXcTKY' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/iXlVlQXcTKY/mqdefault.jpg' alt='Google Cloud ya tiene SDK oficial para Swift' title='Google Cloud ya tiene SDK oficial para Swift' />
-</a>
-
-<a href='https://youtu.be/UxZKm-CoOmg' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/UxZKm-CoOmg/mqdefault.jpg' alt='Piden experiencia en IA que nadie puede tener' title='Piden experiencia en IA que nadie puede tener' />
 </a>
 
 

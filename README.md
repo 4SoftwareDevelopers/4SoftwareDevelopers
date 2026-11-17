@@ -18,6 +18,10 @@
  
 ### 📹 Últimos vídeos en nuestro [canal de Youtube](https://youtube.com/4SoftwareDevelopers?sub_confirmation=1)
 
+<a href='https://youtu.be/EgjxGIMgEZ8' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/EgjxGIMgEZ8/mqdefault.jpg' alt='En Java, final no es final' title='En Java, final no es final' />
+</a>
+
 <a href='https://youtu.be/5enWq0AEdAg' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/5enWq0AEdAg/mqdefault.jpg' alt='Java y la JVM REYES del Big Data' title='Java y la JVM REYES del Big Data' />
 </a>
@@ -36,10 +40,6 @@
 
 <a href='https://youtu.be/rMDVXmJ0bcs' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/rMDVXmJ0bcs/mqdefault.jpg' alt='90% de ahorro en #aws' title='90% de ahorro en #aws' />
-</a>
-
-<a href='https://youtu.be/iXlVlQXcTKY' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/iXlVlQXcTKY/mqdefault.jpg' alt='Google Cloud ya tiene SDK oficial para Swift' title='Google Cloud ya tiene SDK oficial para Swift' />
 </a>
 
 
